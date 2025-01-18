@@ -1,0 +1,2608 @@
+{
+  "id": 254601,
+  "title": "Sport",
+  "beschrijving": "",
+  "woordenboek": "secties",
+  "url": "https://redactie.rtl.nl/nieuws/sport",
+  "analytics": {
+    "viewLabels": {
+      "adobe": {
+        "cd.pagename": "rtl.nieuws.sport.index",
+        "cd.timestamp": "{cd.timestamp}",
+        "cd.referrer": "not_set",
+        "cd.publisher_url": "not_set",
+        "cd.navigation_breadcrumb": "nieuws.sport",
+        "cd.publicationpoint": "{cd.publicationpoint}",
+        "cd.page_type": "index",
+        "cd.user_settings": "{cd.user_settings}",
+        "cd.sync_source": "not_set",
+        "cd.sync_zender": "not_set",
+        "cd.sitename": "rtl",
+        "cd.latitude": "{cd.latitude}",
+        "cd.longitude": "{cd.longitude}",
+        "cd.ad_position": "not_set",
+        "cd.ad_creative_type": "not_set",
+        "cd.rtl_device": "{cd.device}",
+        "cd.rtl_os": "{cd.os}",
+        "cd.logged_in": "{cd.logged_in}",
+        "cd.rtl_userid": "{cd.rtl_userid}",
+        "cd.rtl_svod": "not_set",
+        "cd.ai": "{cd.ai}",
+        "cd.aj": "{cd.aj}",
+        "cd.ak": "not_set",
+        "cd.source": "rtl",
+        "cd.abstractkey": "132237",
+        "cd.repository_id": "s4m",
+        "cd.station": "rtl4",
+        "cd.title": "nieuws.sport",
+        "cd.season": "not_set",
+        "cd.contentid": "not_set",
+        "cd.temp": "0.5",
+        "cd.rainfall": "-",
+        "cd.wind": "2",
+        "cd.app_version": "{cd.app_version}",
+        "cd.app_session_duration": "{cd.app_session_duration}",
+        "cd.nb02": "rtl",
+        "cd.nb11": "{cd.nb11}",
+        "cd.nb25": "rtl.nieuws",
+        "cd.nb26": "rtl.nieuws.sport",
+        "cd.nb27": "nieuws en actualiteit",
+        "cd.am": "false",
+        "cd.sponsor_company": "not_set",
+        "cd.sponsor_campaign": "not_set"
+      }
+    }
+  },
+  "advertising": {
+    "adserverid": null,
+    "publicatiepunt": null,
+    "type": "index",
+    "nav": "nieuws.sport",
+    "uuid": null,
+    "temp": "0.5",
+    "neerslag": "-",
+    "wind": "2"
+  },
+  "items": [
+    {
+      "type": "ArtikelReferentie",
+      "id": 5483490,
+      "aangemaaktDatum": {
+        "timestamp": 1736326752,
+        "formatted": "Vandaag"
+      },
+      "bijgewerktDatum": {
+        "timestamp": 1736326864,
+        "formatted": "Vandaag"
+      },
+      "titel": "Indonesië stelt Kluivert voor twee jaar aan als bondscoach",
+      "urlAlias": "https://redactie.rtl.nl/nieuws/sport/artikel/5483490/indonesie-stelt-kluivert-voor-twee-jaar-aan-als-bondscoach",
+      "afbeelding": {
+        "bijschrift": null,
+        "copyright": null,
+        "afbeelding": "https://redactie.rtl.nl/sites/default/files/ANP080125077-1.jpg",
+        "crops": [
+          {
+            "type": "inline_small",
+            "height": 150,
+            "width": 200,
+            "ratio": "1.33:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/styles/inline_small/public/ANP080125077-1.jpg?itok=CZK2hrzn"
+          },
+          {
+            "type": "artikel_top",
+            "height": 395,
+            "width": 694,
+            "ratio": "1.76:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP080125077-1.jpg?itok=5RzVvmqr&width=694&height=395&impolicy=semi_dynamic"
+          },
+          {
+            "type": "staand",
+            "height": 1024,
+            "width": 682,
+            "ratio": "0.67:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/styles/staand/public/ANP080125077-1.jpg?itok=58pC1WYE"
+          },
+          {
+            "type": "liggend_breed",
+            "height": 400,
+            "width": 1200,
+            "ratio": "3:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/styles/liggend_breed/public/ANP080125077-1.jpg?itok=hjPiTKwO"
+          },
+          {
+            "type": "liggend",
+            "height": 576,
+            "width": 1024,
+            "ratio": "1.78:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP080125077-1.jpg?itok=vrQnqGEt&width=1024&height=576&impolicy=semi_dynamic"
+          },
+          {
+            "type": "liggend_breed_nieuwsopening",
+            "height": 430,
+            "width": 1024,
+            "ratio": "2.38:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/styles/liggend_breed_nieuwsopening/public/ANP080125077-1.jpg?itok=NOHK3Zu7"
+          },
+          {
+            "type": "liggend_hoge_resolutie",
+            "height": 1152,
+            "width": 2048,
+            "ratio": "1.78:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP080125077-1.jpg?itok=_31vrWgC&width=2048&height=1152&impolicy=semi_dynamic"
+          },
+          {
+            "type": "square_medium",
+            "height": 400,
+            "width": 400,
+            "ratio": "1:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/styles/square_medium/public/ANP080125077-1.jpg?itok=spIUFLxQ"
+          },
+          {
+            "type": "square_small",
+            "height": 300,
+            "width": 300,
+            "ratio": "1:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP080125077-1.jpg?itok=sjVxQfzb&width=300&height=300&impolicy=semi_dynamic"
+          },
+          {
+            "type": "square",
+            "height": 610,
+            "width": 610,
+            "ratio": "1:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP080125077-1.jpg?itok=chSk44Vk&width=610&height=610&impolicy=semi_dynamic"
+          },
+          {
+            "type": "landscape_small",
+            "height": 288,
+            "width": 512,
+            "ratio": "1.78:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP080125077-1.jpg?itok=-lI8ARbI&width=512&height=288&impolicy=semi_dynamic"
+          },
+          {
+            "type": "landscape_xs",
+            "height": 90,
+            "width": 160,
+            "ratio": "1.78:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP080125077-1.jpg?itok=mLWviSgF&width=160&height=90&impolicy=semi_dynamic"
+          }
+        ],
+        "type": "MediaAfbeelding"
+      },
+      "branded": {
+        "status": false,
+        "label": null,
+        "campaign": null,
+        "partnerLogo": null,
+        "partnerUrl": null,
+        "clickTracker": null,
+        "impressieTracker": null
+      },
+      "sectie": {
+        "id": 254602,
+        "title": "Voetbal",
+        "beschrijving": "",
+        "woordenboek": "secties",
+        "url": "https://redactie.rtl.nl/nieuws/sport/voetbal",
+        "analytics": null,
+        "advertising": null,
+        "items": null,
+        "pager": null,
+        "regions": [],
+        "metadata": {
+          "entityType": "taxonomy_term",
+          "entityBundle": "secties",
+          "template": "default",
+          "theme": "rtl_blue"
+        },
+        "kruimelpad": null,
+        "type": "PageItem"
+      },
+      "overigeSecties": [],
+      "labelValue": "Voetbal",
+      "labelType": "sectionName",
+      "metadata": {
+        "entityType": "node",
+        "entityBundle": "artikel",
+        "template": "default",
+        "theme": "rtl_blue"
+      },
+      "highlighted": false,
+      "chapeau": null,
+      "lead": "Patrick Kluivert is de nieuwe bondscoach van de voetballers van Indonesië. De oud-international van Oranje heeft een contract getekend voor twee jaar en krijgt als eerste opdracht om zich te plaatsen voor het WK van volgend jaar. Daarbij krijgt de 48-jarige voormalige spits hulp van zijn assistenten Alex Pastoor en Denny Landzaat.",
+      "showVideoIcon": false,
+      "duration": null,
+      "fotoBijschrift": null,
+      "canonicalUrl": "https://redactie.rtl.nl/nieuws/sport/artikel/5483490/indonesie-stelt-kluivert-voor-twee-jaar-aan-als-bondscoach",
+      "isPremium": false
+    },
+    {
+      "type": "ArtikelReferentie",
+      "id": 5483482,
+      "aangemaaktDatum": {
+        "timestamp": 1736324327,
+        "formatted": "Vandaag"
+      },
+      "bijgewerktDatum": {
+        "timestamp": 1736324461,
+        "formatted": "Vandaag"
+      },
+      "titel": "Rentree tennisser Kyrgios in Melbourne onzekerder om buikblessure",
+      "urlAlias": "https://redactie.rtl.nl/nieuws/sport/artikel/5483482/rentree-tennisser-kyrgios-melbourne-onzekerder-om-buikblessure",
+      "afbeelding": {
+        "bijschrift": null,
+        "copyright": null,
+        "afbeelding": "https://redactie.rtl.nl/sites/default/files/ANP080125066-1.jpg",
+        "crops": [
+          {
+            "type": "inline_small",
+            "height": 150,
+            "width": 200,
+            "ratio": "1.33:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/styles/inline_small/public/ANP080125066-1.jpg?itok=YwmPXvSd"
+          },
+          {
+            "type": "artikel_top",
+            "height": 395,
+            "width": 694,
+            "ratio": "1.76:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP080125066-1.jpg?itok=x6tUbA2-&width=694&height=395&impolicy=semi_dynamic"
+          },
+          {
+            "type": "staand",
+            "height": 1024,
+            "width": 682,
+            "ratio": "0.67:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/styles/staand/public/ANP080125066-1.jpg?itok=EIpJ1jXN"
+          },
+          {
+            "type": "liggend_breed",
+            "height": 400,
+            "width": 1200,
+            "ratio": "3:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/styles/liggend_breed/public/ANP080125066-1.jpg?itok=m2Oy96jG"
+          },
+          {
+            "type": "liggend",
+            "height": 576,
+            "width": 1024,
+            "ratio": "1.78:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP080125066-1.jpg?itok=VVt2rcVX&width=1024&height=576&impolicy=semi_dynamic"
+          },
+          {
+            "type": "liggend_breed_nieuwsopening",
+            "height": 430,
+            "width": 1024,
+            "ratio": "2.38:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/styles/liggend_breed_nieuwsopening/public/ANP080125066-1.jpg?itok=SnsH9ZuF"
+          },
+          {
+            "type": "liggend_hoge_resolutie",
+            "height": 1152,
+            "width": 2048,
+            "ratio": "1.78:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP080125066-1.jpg?itok=RfwYi98W&width=2048&height=1152&impolicy=semi_dynamic"
+          },
+          {
+            "type": "square_medium",
+            "height": 400,
+            "width": 400,
+            "ratio": "1:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/styles/square_medium/public/ANP080125066-1.jpg?itok=jlmJMKh5"
+          },
+          {
+            "type": "square_small",
+            "height": 300,
+            "width": 300,
+            "ratio": "1:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP080125066-1.jpg?itok=9rzzSItC&width=300&height=300&impolicy=semi_dynamic"
+          },
+          {
+            "type": "square",
+            "height": 610,
+            "width": 610,
+            "ratio": "1:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP080125066-1.jpg?itok=qQIiRxd-&width=610&height=610&impolicy=semi_dynamic"
+          },
+          {
+            "type": "landscape_small",
+            "height": 288,
+            "width": 512,
+            "ratio": "1.78:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP080125066-1.jpg?itok=8uIQ1ynx&width=512&height=288&impolicy=semi_dynamic"
+          },
+          {
+            "type": "landscape_xs",
+            "height": 90,
+            "width": 160,
+            "ratio": "1.78:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP080125066-1.jpg?itok=NbjKORah&width=160&height=90&impolicy=semi_dynamic"
+          }
+        ],
+        "type": "MediaAfbeelding"
+      },
+      "branded": {
+        "status": false,
+        "label": null,
+        "campaign": null,
+        "partnerLogo": null,
+        "partnerUrl": null,
+        "clickTracker": null,
+        "impressieTracker": null
+      },
+      "sectie": {
+        "id": 254601,
+        "title": "Sport",
+        "beschrijving": "",
+        "woordenboek": "secties",
+        "url": "https://redactie.rtl.nl/nieuws/sport",
+        "analytics": null,
+        "advertising": null,
+        "items": null,
+        "pager": null,
+        "regions": [],
+        "metadata": {
+          "entityType": "taxonomy_term",
+          "entityBundle": "secties",
+          "template": "default",
+          "theme": "rtl_blue"
+        },
+        "kruimelpad": null,
+        "type": "PageItem"
+      },
+      "overigeSecties": [],
+      "labelValue": "Sport",
+      "labelType": "sectionName",
+      "metadata": {
+        "entityType": "node",
+        "entityBundle": "artikel",
+        "template": "default",
+        "theme": "rtl_blue"
+      },
+      "highlighted": false,
+      "chapeau": null,
+      "lead": "Een buikspierblessure maakt de langverwachte terugkeer van tennisser Nick Kyrgios op de Australian Open nog onzekerder. De Wimbledon-finalist van 2022 zag zich door de kwetsuur genoodzaakt zijn deelname aan een demonstratie-evenement van Novak Djokovic donderdag af te zeggen. Vorige week twijfelde de 29-jarige Australiër al of zijn pols een wedstrijd op een grandslamtoernooi aankon.",
+      "showVideoIcon": false,
+      "duration": null,
+      "fotoBijschrift": null,
+      "canonicalUrl": "https://redactie.rtl.nl/nieuws/sport/artikel/5483482/rentree-tennisser-kyrgios-melbourne-onzekerder-om-buikblessure",
+      "isPremium": false
+    },
+    {
+      "type": "ArtikelReferentie",
+      "id": 5483455,
+      "aangemaaktDatum": {
+        "timestamp": 1736288345,
+        "formatted": "Gisteren"
+      },
+      "bijgewerktDatum": {
+        "timestamp": 1736288401,
+        "formatted": "Gisteren"
+      },
+      "titel": "Deschamps stopt als bondscoach van Frankrijk na WK 2026",
+      "urlAlias": "https://redactie.rtl.nl/nieuws/sport/artikel/5483455/deschamps-stopt-als-bondscoach-van-frankrijk-na-wk-2026",
+      "afbeelding": {
+        "bijschrift": null,
+        "copyright": null,
+        "afbeelding": "https://redactie.rtl.nl/sites/default/files/ANP070125236-1.jpg",
+        "crops": [
+          {
+            "type": "inline_small",
+            "height": 150,
+            "width": 200,
+            "ratio": "1.33:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/styles/inline_small/public/ANP070125236-1.jpg?itok=7zIpLrec"
+          },
+          {
+            "type": "artikel_top",
+            "height": 395,
+            "width": 694,
+            "ratio": "1.76:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP070125236-1.jpg?itok=Argu_bOc&width=694&height=395&impolicy=semi_dynamic"
+          },
+          {
+            "type": "staand",
+            "height": 1024,
+            "width": 682,
+            "ratio": "0.67:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/styles/staand/public/ANP070125236-1.jpg?itok=0Da07xPc"
+          },
+          {
+            "type": "liggend_breed",
+            "height": 400,
+            "width": 1200,
+            "ratio": "3:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/styles/liggend_breed/public/ANP070125236-1.jpg?itok=jBxKQzz3"
+          },
+          {
+            "type": "liggend",
+            "height": 576,
+            "width": 1024,
+            "ratio": "1.78:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP070125236-1.jpg?itok=xyiRUPg8&width=1024&height=576&impolicy=semi_dynamic"
+          },
+          {
+            "type": "liggend_breed_nieuwsopening",
+            "height": 430,
+            "width": 1024,
+            "ratio": "2.38:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/styles/liggend_breed_nieuwsopening/public/ANP070125236-1.jpg?itok=aHkeFc-m"
+          },
+          {
+            "type": "liggend_hoge_resolutie",
+            "height": 1152,
+            "width": 2048,
+            "ratio": "1.78:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP070125236-1.jpg?itok=JfVqBTZY&width=2048&height=1152&impolicy=semi_dynamic"
+          },
+          {
+            "type": "square_medium",
+            "height": 400,
+            "width": 400,
+            "ratio": "1:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/styles/square_medium/public/ANP070125236-1.jpg?itok=1MPD0fhT"
+          },
+          {
+            "type": "square_small",
+            "height": 300,
+            "width": 300,
+            "ratio": "1:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP070125236-1.jpg?itok=gFCaJxM-&width=300&height=300&impolicy=semi_dynamic"
+          },
+          {
+            "type": "square",
+            "height": 610,
+            "width": 610,
+            "ratio": "1:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP070125236-1.jpg?itok=RUivBVlX&width=610&height=610&impolicy=semi_dynamic"
+          },
+          {
+            "type": "landscape_small",
+            "height": 288,
+            "width": 512,
+            "ratio": "1.78:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP070125236-1.jpg?itok=-Q_gNU7k&width=512&height=288&impolicy=semi_dynamic"
+          },
+          {
+            "type": "landscape_xs",
+            "height": 90,
+            "width": 160,
+            "ratio": "1.78:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP070125236-1.jpg?itok=QMc1y0h9&width=160&height=90&impolicy=semi_dynamic"
+          }
+        ],
+        "type": "MediaAfbeelding"
+      },
+      "branded": {
+        "status": false,
+        "label": null,
+        "campaign": null,
+        "partnerLogo": null,
+        "partnerUrl": null,
+        "clickTracker": null,
+        "impressieTracker": null
+      },
+      "sectie": {
+        "id": 254601,
+        "title": "Sport",
+        "beschrijving": "",
+        "woordenboek": "secties",
+        "url": "https://redactie.rtl.nl/nieuws/sport",
+        "analytics": null,
+        "advertising": null,
+        "items": null,
+        "pager": null,
+        "regions": [],
+        "metadata": {
+          "entityType": "taxonomy_term",
+          "entityBundle": "secties",
+          "template": "default",
+          "theme": "rtl_blue"
+        },
+        "kruimelpad": null,
+        "type": "PageItem"
+      },
+      "overigeSecties": [],
+      "labelValue": "Sport",
+      "labelType": "sectionName",
+      "metadata": {
+        "entityType": "node",
+        "entityBundle": "artikel",
+        "template": "default",
+        "theme": "rtl_blue"
+      },
+      "highlighted": false,
+      "chapeau": null,
+      "lead": "PARIJS (ANP/RTR) - Bondscoach Didier Deschamps zal na het WK van 2026 zijn aflopende contract niet verlengen. Dat meldde de Franse voetbalbond tegenover persbureau Reuters. Eerder op dinsdag schreef de Franse sportkrant L'Equipe dat Deschamps woensdag zijn beslissing gaat aankondigen.",
+      "showVideoIcon": false,
+      "duration": null,
+      "fotoBijschrift": null,
+      "canonicalUrl": "https://redactie.rtl.nl/nieuws/sport/artikel/5483455/deschamps-stopt-als-bondscoach-van-frankrijk-na-wk-2026",
+      "isPremium": false
+    },
+    {
+      "type": "ArtikelReferentie",
+      "id": 5483454,
+      "aangemaaktDatum": {
+        "timestamp": 1736287067,
+        "formatted": "Gisteren"
+      },
+      "bijgewerktDatum": {
+        "timestamp": 1736287202,
+        "formatted": "Gisteren"
+      },
+      "titel": "Newcastle United zet bij Arsenal grote stap richting bekerfinale",
+      "urlAlias": "https://redactie.rtl.nl/nieuws/sport/artikel/5483454/newcastle-united-zet-bij-arsenal-grote-stap-richting-bekerfinale",
+      "afbeelding": {
+        "bijschrift": null,
+        "copyright": null,
+        "afbeelding": "https://redactie.rtl.nl/sites/default/files/ANP070125233-1.jpg",
+        "crops": [
+          {
+            "type": "inline_small",
+            "height": 150,
+            "width": 200,
+            "ratio": "1.33:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/styles/inline_small/public/ANP070125233-1.jpg?itok=ISdIUbM9"
+          },
+          {
+            "type": "artikel_top",
+            "height": 395,
+            "width": 694,
+            "ratio": "1.76:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP070125233-1.jpg?itok=YGeHviZ3&width=694&height=395&impolicy=semi_dynamic"
+          },
+          {
+            "type": "staand",
+            "height": 1024,
+            "width": 682,
+            "ratio": "0.67:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/styles/staand/public/ANP070125233-1.jpg?itok=8Vzkmtn8"
+          },
+          {
+            "type": "liggend_breed",
+            "height": 400,
+            "width": 1200,
+            "ratio": "3:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/styles/liggend_breed/public/ANP070125233-1.jpg?itok=I1agAbPR"
+          },
+          {
+            "type": "liggend",
+            "height": 576,
+            "width": 1024,
+            "ratio": "1.78:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP070125233-1.jpg?itok=HmTkMR4j&width=1024&height=576&impolicy=semi_dynamic"
+          },
+          {
+            "type": "liggend_breed_nieuwsopening",
+            "height": 430,
+            "width": 1024,
+            "ratio": "2.38:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/styles/liggend_breed_nieuwsopening/public/ANP070125233-1.jpg?itok=f15yfKk0"
+          },
+          {
+            "type": "liggend_hoge_resolutie",
+            "height": 1152,
+            "width": 2048,
+            "ratio": "1.78:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP070125233-1.jpg?itok=Bq-LkOIL&width=2048&height=1152&impolicy=semi_dynamic"
+          },
+          {
+            "type": "square_medium",
+            "height": 400,
+            "width": 400,
+            "ratio": "1:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/styles/square_medium/public/ANP070125233-1.jpg?itok=MN2foClK"
+          },
+          {
+            "type": "square_small",
+            "height": 300,
+            "width": 300,
+            "ratio": "1:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP070125233-1.jpg?itok=HjBYM_oD&width=300&height=300&impolicy=semi_dynamic"
+          },
+          {
+            "type": "square",
+            "height": 610,
+            "width": 610,
+            "ratio": "1:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP070125233-1.jpg?itok=VHoq-Abf&width=610&height=610&impolicy=semi_dynamic"
+          },
+          {
+            "type": "landscape_small",
+            "height": 288,
+            "width": 512,
+            "ratio": "1.78:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP070125233-1.jpg?itok=yQ8f1t2s&width=512&height=288&impolicy=semi_dynamic"
+          },
+          {
+            "type": "landscape_xs",
+            "height": 90,
+            "width": 160,
+            "ratio": "1.78:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP070125233-1.jpg?itok=ae-__lQA&width=160&height=90&impolicy=semi_dynamic"
+          }
+        ],
+        "type": "MediaAfbeelding"
+      },
+      "branded": {
+        "status": false,
+        "label": null,
+        "campaign": null,
+        "partnerLogo": null,
+        "partnerUrl": null,
+        "clickTracker": null,
+        "impressieTracker": null
+      },
+      "sectie": {
+        "id": 254602,
+        "title": "Voetbal",
+        "beschrijving": "",
+        "woordenboek": "secties",
+        "url": "https://redactie.rtl.nl/nieuws/sport/voetbal",
+        "analytics": null,
+        "advertising": null,
+        "items": null,
+        "pager": null,
+        "regions": [],
+        "metadata": {
+          "entityType": "taxonomy_term",
+          "entityBundle": "secties",
+          "template": "default",
+          "theme": "rtl_blue"
+        },
+        "kruimelpad": null,
+        "type": "PageItem"
+      },
+      "overigeSecties": [],
+      "labelValue": "Voetbal",
+      "labelType": "sectionName",
+      "metadata": {
+        "entityType": "node",
+        "entityBundle": "artikel",
+        "template": "default",
+        "theme": "rtl_blue"
+      },
+      "highlighted": false,
+      "chapeau": null,
+      "lead": "Newcastle United heeft bij Arsenal een grote stap gezet richting de finale van de League Cup. De ploeg van de Nederlandse verdediger Sven Botman won in Londen de eerste wedstrijd in de halve eindstrijd met 2-0 van de nummer 2 van de Premier League.",
+      "showVideoIcon": false,
+      "duration": null,
+      "fotoBijschrift": null,
+      "canonicalUrl": "https://redactie.rtl.nl/nieuws/sport/artikel/5483454/newcastle-united-zet-bij-arsenal-grote-stap-richting-bekerfinale",
+      "isPremium": false
+    },
+    {
+      "type": "ArtikelReferentie",
+      "id": 5483442,
+      "aangemaaktDatum": {
+        "timestamp": 1736275801,
+        "formatted": "Gisteren"
+      },
+      "bijgewerktDatum": {
+        "timestamp": 1736275921,
+        "formatted": "Gisteren"
+      },
+      "titel": "Ajax en Damián van der Vaart akkoord over contractverlenging",
+      "urlAlias": "https://redactie.rtl.nl/nieuws/sport/artikel/5483442/ajax-en-damian-van-der-vaart-akkoord-over-contractverlenging",
+      "afbeelding": {
+        "bijschrift": null,
+        "copyright": null,
+        "afbeelding": "https://redactie.rtl.nl/sites/default/files/ANP070125211-1.jpg",
+        "crops": [
+          {
+            "type": "inline_small",
+            "height": 150,
+            "width": 200,
+            "ratio": "1.33:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/styles/inline_small/public/ANP070125211-1.jpg?itok=KBPSz_8T"
+          },
+          {
+            "type": "artikel_top",
+            "height": 395,
+            "width": 694,
+            "ratio": "1.76:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP070125211-1.jpg?itok=-hbuhhVd&width=694&height=395&impolicy=semi_dynamic"
+          },
+          {
+            "type": "staand",
+            "height": 1024,
+            "width": 682,
+            "ratio": "0.67:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/styles/staand/public/ANP070125211-1.jpg?itok=Nsa4FFqh"
+          },
+          {
+            "type": "liggend_breed",
+            "height": 400,
+            "width": 1200,
+            "ratio": "3:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/styles/liggend_breed/public/ANP070125211-1.jpg?itok=XCO6wPhn"
+          },
+          {
+            "type": "liggend",
+            "height": 576,
+            "width": 1024,
+            "ratio": "1.78:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP070125211-1.jpg?itok=Kbm-ee-s&width=1024&height=576&impolicy=semi_dynamic"
+          },
+          {
+            "type": "liggend_breed_nieuwsopening",
+            "height": 430,
+            "width": 1024,
+            "ratio": "2.38:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/styles/liggend_breed_nieuwsopening/public/ANP070125211-1.jpg?itok=bmRI9QEu"
+          },
+          {
+            "type": "liggend_hoge_resolutie",
+            "height": 1152,
+            "width": 2048,
+            "ratio": "1.78:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP070125211-1.jpg?itok=mp7iJH-z&width=2048&height=1152&impolicy=semi_dynamic"
+          },
+          {
+            "type": "square_medium",
+            "height": 400,
+            "width": 400,
+            "ratio": "1:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/styles/square_medium/public/ANP070125211-1.jpg?itok=Uh5GCMNT"
+          },
+          {
+            "type": "square_small",
+            "height": 300,
+            "width": 300,
+            "ratio": "1:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP070125211-1.jpg?itok=cmk2UkxT&width=300&height=300&impolicy=semi_dynamic"
+          },
+          {
+            "type": "square",
+            "height": 610,
+            "width": 610,
+            "ratio": "1:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP070125211-1.jpg?itok=Wv-bRny4&width=610&height=610&impolicy=semi_dynamic"
+          },
+          {
+            "type": "landscape_small",
+            "height": 288,
+            "width": 512,
+            "ratio": "1.78:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP070125211-1.jpg?itok=t7IjxLxw&width=512&height=288&impolicy=semi_dynamic"
+          },
+          {
+            "type": "landscape_xs",
+            "height": 90,
+            "width": 160,
+            "ratio": "1.78:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP070125211-1.jpg?itok=gjNvLq6i&width=160&height=90&impolicy=semi_dynamic"
+          }
+        ],
+        "type": "MediaAfbeelding"
+      },
+      "branded": {
+        "status": false,
+        "label": null,
+        "campaign": null,
+        "partnerLogo": null,
+        "partnerUrl": null,
+        "clickTracker": null,
+        "impressieTracker": null
+      },
+      "sectie": {
+        "id": 254602,
+        "title": "Voetbal",
+        "beschrijving": "",
+        "woordenboek": "secties",
+        "url": "https://redactie.rtl.nl/nieuws/sport/voetbal",
+        "analytics": null,
+        "advertising": null,
+        "items": null,
+        "pager": null,
+        "regions": [],
+        "metadata": {
+          "entityType": "taxonomy_term",
+          "entityBundle": "secties",
+          "template": "default",
+          "theme": "rtl_blue"
+        },
+        "kruimelpad": null,
+        "type": "PageItem"
+      },
+      "overigeSecties": [],
+      "labelValue": "Voetbal",
+      "labelType": "sectionName",
+      "metadata": {
+        "entityType": "node",
+        "entityBundle": "artikel",
+        "template": "default",
+        "theme": "rtl_blue"
+      },
+      "highlighted": false,
+      "chapeau": null,
+      "lead": "Ajax en Damián van der Vaart hebben overeenstemming bereikt over een nieuw contract tot de zomer van 2029. De 18-jarige middenvelder verruilde in 2023 de jeugdopleiding van het Deense Esbjerg fB voor die van Ajax.",
+      "showVideoIcon": false,
+      "duration": null,
+      "fotoBijschrift": null,
+      "canonicalUrl": "https://redactie.rtl.nl/nieuws/sport/artikel/5483442/ajax-en-damian-van-der-vaart-akkoord-over-contractverlenging",
+      "isPremium": false
+    },
+    {
+      "type": "ArtikelReferentie",
+      "id": 5483440,
+      "aangemaaktDatum": {
+        "timestamp": 1736274113,
+        "formatted": "Gisteren"
+      },
+      "bijgewerktDatum": {
+        "timestamp": 1736274241,
+        "formatted": "Gisteren"
+      },
+      "titel": "Raphinha vreest voor gevolgen transfers Barça door zaak Olmo ",
+      "urlAlias": "https://redactie.rtl.nl/nieuws/sport/artikel/5483440/raphinha-vreest-voor-gevolgen-transfers-barca-door-zaak-olmo",
+      "afbeelding": {
+        "bijschrift": null,
+        "copyright": null,
+        "afbeelding": "https://redactie.rtl.nl/sites/default/files/ANP070125207-1.jpg",
+        "crops": [
+          {
+            "type": "inline_small",
+            "height": 150,
+            "width": 200,
+            "ratio": "1.33:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/styles/inline_small/public/ANP070125207-1.jpg?itok=lHSY9yJ4"
+          },
+          {
+            "type": "artikel_top",
+            "height": 395,
+            "width": 694,
+            "ratio": "1.76:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP070125207-1.jpg?itok=yeedKySG&width=694&height=395&impolicy=semi_dynamic"
+          },
+          {
+            "type": "staand",
+            "height": 1024,
+            "width": 682,
+            "ratio": "0.67:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/styles/staand/public/ANP070125207-1.jpg?itok=qMOeh5Xv"
+          },
+          {
+            "type": "liggend_breed",
+            "height": 400,
+            "width": 1200,
+            "ratio": "3:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/styles/liggend_breed/public/ANP070125207-1.jpg?itok=6lKyBB3C"
+          },
+          {
+            "type": "liggend",
+            "height": 576,
+            "width": 1024,
+            "ratio": "1.78:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP070125207-1.jpg?itok=nUNHXDsF&width=1024&height=576&impolicy=semi_dynamic"
+          },
+          {
+            "type": "liggend_breed_nieuwsopening",
+            "height": 430,
+            "width": 1024,
+            "ratio": "2.38:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/styles/liggend_breed_nieuwsopening/public/ANP070125207-1.jpg?itok=fMjV7KSD"
+          },
+          {
+            "type": "liggend_hoge_resolutie",
+            "height": 1152,
+            "width": 2048,
+            "ratio": "1.78:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP070125207-1.jpg?itok=3BlYmYiH&width=2048&height=1152&impolicy=semi_dynamic"
+          },
+          {
+            "type": "square_medium",
+            "height": 400,
+            "width": 400,
+            "ratio": "1:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/styles/square_medium/public/ANP070125207-1.jpg?itok=s2rJQTCe"
+          },
+          {
+            "type": "square_small",
+            "height": 300,
+            "width": 300,
+            "ratio": "1:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP070125207-1.jpg?itok=Z3Vqzibz&width=300&height=300&impolicy=semi_dynamic"
+          },
+          {
+            "type": "square",
+            "height": 610,
+            "width": 610,
+            "ratio": "1:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP070125207-1.jpg?itok=cKKmwz1U&width=610&height=610&impolicy=semi_dynamic"
+          },
+          {
+            "type": "landscape_small",
+            "height": 288,
+            "width": 512,
+            "ratio": "1.78:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP070125207-1.jpg?itok=6z2ZodbY&width=512&height=288&impolicy=semi_dynamic"
+          },
+          {
+            "type": "landscape_xs",
+            "height": 90,
+            "width": 160,
+            "ratio": "1.78:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP070125207-1.jpg?itok=NAP0j_NG&width=160&height=90&impolicy=semi_dynamic"
+          }
+        ],
+        "type": "MediaAfbeelding"
+      },
+      "branded": {
+        "status": false,
+        "label": null,
+        "campaign": null,
+        "partnerLogo": null,
+        "partnerUrl": null,
+        "clickTracker": null,
+        "impressieTracker": null
+      },
+      "sectie": {
+        "id": 254602,
+        "title": "Voetbal",
+        "beschrijving": "",
+        "woordenboek": "secties",
+        "url": "https://redactie.rtl.nl/nieuws/sport/voetbal",
+        "analytics": null,
+        "advertising": null,
+        "items": null,
+        "pager": null,
+        "regions": [],
+        "metadata": {
+          "entityType": "taxonomy_term",
+          "entityBundle": "secties",
+          "template": "default",
+          "theme": "rtl_blue"
+        },
+        "kruimelpad": null,
+        "type": "PageItem"
+      },
+      "overigeSecties": [],
+      "labelValue": "Voetbal",
+      "labelType": "sectionName",
+      "metadata": {
+        "entityType": "node",
+        "entityBundle": "artikel",
+        "template": "default",
+        "theme": "rtl_blue"
+      },
+      "highlighted": false,
+      "chapeau": null,
+      "lead": "JEDDAH (ANP/AFP/RTR) - Voetballer Raphinha van FC Barcelona vreest dat de zaak rond de mislukte inschrijving van Dani Olmo bij de club effect kan hebben op toekomstige transfers. De financieel geplaagde Spaanse topclub slaagde er de afgelopen weken niet in Olmo speelgerechtigd te krijgen voor de tweede helft van het seizoen. Barcelona heeft de zaak nog voorgelegd bij de hoogste Spaanse sportrechtbank, maar kan in afwachting van een uitspraak geen beroep doen op de speler en ook niet op Pau Víctor.",
+      "showVideoIcon": false,
+      "duration": null,
+      "fotoBijschrift": null,
+      "canonicalUrl": "https://redactie.rtl.nl/nieuws/sport/artikel/5483440/raphinha-vreest-voor-gevolgen-transfers-barca-door-zaak-olmo",
+      "isPremium": false
+    },
+    {
+      "type": "ArtikelReferentie",
+      "id": 5483435,
+      "aangemaaktDatum": {
+        "timestamp": 1736273481,
+        "formatted": "Gisteren"
+      },
+      "bijgewerktDatum": {
+        "timestamp": 1736273581,
+        "formatted": "Gisteren"
+      },
+      "titel": "NAC neemt afscheid van aanvaller Boere",
+      "urlAlias": "https://redactie.rtl.nl/nieuws/sport/artikel/5483435/nac-neemt-afscheid-van-aanvaller-boere",
+      "afbeelding": {
+        "bijschrift": null,
+        "copyright": null,
+        "afbeelding": "https://redactie.rtl.nl/sites/default/files/ANP070125204-1.jpg",
+        "crops": [
+          {
+            "type": "inline_small",
+            "height": 150,
+            "width": 200,
+            "ratio": "1.33:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/styles/inline_small/public/ANP070125204-1.jpg?itok=7oDxN3Kf"
+          },
+          {
+            "type": "artikel_top",
+            "height": 395,
+            "width": 694,
+            "ratio": "1.76:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP070125204-1.jpg?itok=EgWWs4QE&width=694&height=395&impolicy=semi_dynamic"
+          },
+          {
+            "type": "staand",
+            "height": 1024,
+            "width": 682,
+            "ratio": "0.67:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/styles/staand/public/ANP070125204-1.jpg?itok=kjHoWBda"
+          },
+          {
+            "type": "liggend_breed",
+            "height": 400,
+            "width": 1200,
+            "ratio": "3:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/styles/liggend_breed/public/ANP070125204-1.jpg?itok=sIcpZcid"
+          },
+          {
+            "type": "liggend",
+            "height": 576,
+            "width": 1024,
+            "ratio": "1.78:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP070125204-1.jpg?itok=_VC1HHMP&width=1024&height=576&impolicy=semi_dynamic"
+          },
+          {
+            "type": "liggend_breed_nieuwsopening",
+            "height": 430,
+            "width": 1024,
+            "ratio": "2.38:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/styles/liggend_breed_nieuwsopening/public/ANP070125204-1.jpg?itok=PTtWNZAz"
+          },
+          {
+            "type": "liggend_hoge_resolutie",
+            "height": 1152,
+            "width": 2048,
+            "ratio": "1.78:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP070125204-1.jpg?itok=K9WXJSJk&width=2048&height=1152&impolicy=semi_dynamic"
+          },
+          {
+            "type": "square_medium",
+            "height": 400,
+            "width": 400,
+            "ratio": "1:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/styles/square_medium/public/ANP070125204-1.jpg?itok=4EIbSsPC"
+          },
+          {
+            "type": "square_small",
+            "height": 300,
+            "width": 300,
+            "ratio": "1:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP070125204-1.jpg?itok=vRHv8FJz&width=300&height=300&impolicy=semi_dynamic"
+          },
+          {
+            "type": "square",
+            "height": 610,
+            "width": 610,
+            "ratio": "1:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP070125204-1.jpg?itok=Je_oZhpS&width=610&height=610&impolicy=semi_dynamic"
+          },
+          {
+            "type": "landscape_small",
+            "height": 288,
+            "width": 512,
+            "ratio": "1.78:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP070125204-1.jpg?itok=D-KvuSyh&width=512&height=288&impolicy=semi_dynamic"
+          },
+          {
+            "type": "landscape_xs",
+            "height": 90,
+            "width": 160,
+            "ratio": "1.78:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP070125204-1.jpg?itok=VRS8ROLy&width=160&height=90&impolicy=semi_dynamic"
+          }
+        ],
+        "type": "MediaAfbeelding"
+      },
+      "branded": {
+        "status": false,
+        "label": null,
+        "campaign": null,
+        "partnerLogo": null,
+        "partnerUrl": null,
+        "clickTracker": null,
+        "impressieTracker": null
+      },
+      "sectie": {
+        "id": 254602,
+        "title": "Voetbal",
+        "beschrijving": "",
+        "woordenboek": "secties",
+        "url": "https://redactie.rtl.nl/nieuws/sport/voetbal",
+        "analytics": null,
+        "advertising": null,
+        "items": null,
+        "pager": null,
+        "regions": [],
+        "metadata": {
+          "entityType": "taxonomy_term",
+          "entityBundle": "secties",
+          "template": "default",
+          "theme": "rtl_blue"
+        },
+        "kruimelpad": null,
+        "type": "PageItem"
+      },
+      "overigeSecties": [],
+      "labelValue": "Voetbal",
+      "labelType": "sectionName",
+      "metadata": {
+        "entityType": "node",
+        "entityBundle": "artikel",
+        "template": "default",
+        "theme": "rtl_blue"
+      },
+      "highlighted": false,
+      "chapeau": null,
+      "lead": "NAC Breda heeft afscheid genomen van Tom Boere. De Eredivisieclub heeft het contract van de 32-jarige aanvaller \"in goed overleg\" ontbonden.",
+      "showVideoIcon": false,
+      "duration": null,
+      "fotoBijschrift": null,
+      "canonicalUrl": "https://redactie.rtl.nl/nieuws/sport/artikel/5483435/nac-neemt-afscheid-van-aanvaller-boere",
+      "isPremium": false
+    },
+    {
+      "type": "ArtikelReferentie",
+      "id": 5483409,
+      "aangemaaktDatum": {
+        "timestamp": 1736258556,
+        "formatted": "Gisteren"
+      },
+      "bijgewerktDatum": {
+        "timestamp": 1736258641,
+        "formatted": "Gisteren"
+      },
+      "titel": "Liverpool-coach Slot overweegt andere basis voor duel met Spurs",
+      "urlAlias": "https://redactie.rtl.nl/nieuws/sport/artikel/5483409/liverpool-coach-slot-overweegt-andere-basis-voor-duel-met-spurs",
+      "afbeelding": {
+        "bijschrift": null,
+        "copyright": null,
+        "afbeelding": "https://redactie.rtl.nl/sites/default/files/ANP070125153-1.jpg",
+        "crops": [
+          {
+            "type": "inline_small",
+            "height": 150,
+            "width": 200,
+            "ratio": "1.33:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/styles/inline_small/public/ANP070125153-1.jpg?itok=yW-rhCdn"
+          },
+          {
+            "type": "artikel_top",
+            "height": 395,
+            "width": 694,
+            "ratio": "1.76:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP070125153-1.jpg?itok=k7pvhBaI&width=694&height=395&impolicy=semi_dynamic"
+          },
+          {
+            "type": "staand",
+            "height": 1024,
+            "width": 682,
+            "ratio": "0.67:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/styles/staand/public/ANP070125153-1.jpg?itok=qCKVrOti"
+          },
+          {
+            "type": "liggend_breed",
+            "height": 400,
+            "width": 1200,
+            "ratio": "3:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/styles/liggend_breed/public/ANP070125153-1.jpg?itok=DZh1WNy0"
+          },
+          {
+            "type": "liggend",
+            "height": 576,
+            "width": 1024,
+            "ratio": "1.78:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP070125153-1.jpg?itok=zS0kmXEn&width=1024&height=576&impolicy=semi_dynamic"
+          },
+          {
+            "type": "liggend_breed_nieuwsopening",
+            "height": 430,
+            "width": 1024,
+            "ratio": "2.38:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/styles/liggend_breed_nieuwsopening/public/ANP070125153-1.jpg?itok=Cb1AteMm"
+          },
+          {
+            "type": "liggend_hoge_resolutie",
+            "height": 1152,
+            "width": 2048,
+            "ratio": "1.78:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP070125153-1.jpg?itok=n7WNBM14&width=2048&height=1152&impolicy=semi_dynamic"
+          },
+          {
+            "type": "square_medium",
+            "height": 400,
+            "width": 400,
+            "ratio": "1:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/styles/square_medium/public/ANP070125153-1.jpg?itok=TA5c8d7r"
+          },
+          {
+            "type": "square_small",
+            "height": 300,
+            "width": 300,
+            "ratio": "1:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP070125153-1.jpg?itok=9R9gU0bT&width=300&height=300&impolicy=semi_dynamic"
+          },
+          {
+            "type": "square",
+            "height": 610,
+            "width": 610,
+            "ratio": "1:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP070125153-1.jpg?itok=9CzO_B0n&width=610&height=610&impolicy=semi_dynamic"
+          },
+          {
+            "type": "landscape_small",
+            "height": 288,
+            "width": 512,
+            "ratio": "1.78:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP070125153-1.jpg?itok=b0KCRR6d&width=512&height=288&impolicy=semi_dynamic"
+          },
+          {
+            "type": "landscape_xs",
+            "height": 90,
+            "width": 160,
+            "ratio": "1.78:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP070125153-1.jpg?itok=LRgkrt35&width=160&height=90&impolicy=semi_dynamic"
+          }
+        ],
+        "type": "MediaAfbeelding"
+      },
+      "branded": {
+        "status": false,
+        "label": null,
+        "campaign": null,
+        "partnerLogo": null,
+        "partnerUrl": null,
+        "clickTracker": null,
+        "impressieTracker": null
+      },
+      "sectie": {
+        "id": 254602,
+        "title": "Voetbal",
+        "beschrijving": "",
+        "woordenboek": "secties",
+        "url": "https://redactie.rtl.nl/nieuws/sport/voetbal",
+        "analytics": null,
+        "advertising": null,
+        "items": null,
+        "pager": null,
+        "regions": [],
+        "metadata": {
+          "entityType": "taxonomy_term",
+          "entityBundle": "secties",
+          "template": "default",
+          "theme": "rtl_blue"
+        },
+        "kruimelpad": null,
+        "type": "PageItem"
+      },
+      "overigeSecties": [],
+      "labelValue": "Voetbal",
+      "labelType": "sectionName",
+      "metadata": {
+        "entityType": "node",
+        "entityBundle": "artikel",
+        "template": "default",
+        "theme": "rtl_blue"
+      },
+      "highlighted": false,
+      "chapeau": null,
+      "lead": "LIVERPOOL (ANP/RTR/AFP) - Liverpool-coach Arne Slot overweegt zijn basiselftal voor de eerste wedstrijd in de halve finale van de League Cup tegen Tottenham Hotspur woensdag te wijzigen. Hij suggereert dat hij misschien spelers gaat opstellen die normaal gesproken niet in de basis starten.",
+      "showVideoIcon": false,
+      "duration": null,
+      "fotoBijschrift": null,
+      "canonicalUrl": "https://redactie.rtl.nl/nieuws/sport/artikel/5483409/liverpool-coach-slot-overweegt-andere-basis-voor-duel-met-spurs",
+      "isPremium": false
+    },
+    {
+      "type": "ArtikelReferentie",
+      "id": 5483388,
+      "aangemaaktDatum": {
+        "timestamp": 1736253373,
+        "formatted": "Gisteren"
+      },
+      "bijgewerktDatum": {
+        "timestamp": 1736253541,
+        "formatted": "Gisteren"
+      },
+      "titel": "Krajicek presenteert sterk bezette editie ABN AMRO Open",
+      "urlAlias": "https://redactie.rtl.nl/nieuws/sport/artikel/5483388/krajicek-presenteert-sterk-bezette-editie-abn-amro-open",
+      "afbeelding": {
+        "bijschrift": null,
+        "copyright": null,
+        "afbeelding": "https://redactie.rtl.nl/sites/default/files/ANP070125139-1.jpg",
+        "crops": [
+          {
+            "type": "inline_small",
+            "height": 150,
+            "width": 200,
+            "ratio": "1.33:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/styles/inline_small/public/ANP070125139-1.jpg?itok=2KnlnsVq"
+          },
+          {
+            "type": "artikel_top",
+            "height": 395,
+            "width": 694,
+            "ratio": "1.76:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP070125139-1.jpg?itok=mmbMCLYz&width=694&height=395&impolicy=semi_dynamic"
+          },
+          {
+            "type": "staand",
+            "height": 1024,
+            "width": 682,
+            "ratio": "0.67:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/styles/staand/public/ANP070125139-1.jpg?itok=SAPnjv1y"
+          },
+          {
+            "type": "liggend_breed",
+            "height": 400,
+            "width": 1200,
+            "ratio": "3:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/styles/liggend_breed/public/ANP070125139-1.jpg?itok=W6i_39Mi"
+          },
+          {
+            "type": "liggend",
+            "height": 576,
+            "width": 1024,
+            "ratio": "1.78:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP070125139-1.jpg?itok=jZbQEVXL&width=1024&height=576&impolicy=semi_dynamic"
+          },
+          {
+            "type": "liggend_breed_nieuwsopening",
+            "height": 430,
+            "width": 1024,
+            "ratio": "2.38:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/styles/liggend_breed_nieuwsopening/public/ANP070125139-1.jpg?itok=ETkjfud9"
+          },
+          {
+            "type": "liggend_hoge_resolutie",
+            "height": 1152,
+            "width": 2048,
+            "ratio": "1.78:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP070125139-1.jpg?itok=Yn2xlHXW&width=2048&height=1152&impolicy=semi_dynamic"
+          },
+          {
+            "type": "square_medium",
+            "height": 400,
+            "width": 400,
+            "ratio": "1:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/styles/square_medium/public/ANP070125139-1.jpg?itok=CScCoYWw"
+          },
+          {
+            "type": "square_small",
+            "height": 300,
+            "width": 300,
+            "ratio": "1:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP070125139-1.jpg?itok=qakovXzv&width=300&height=300&impolicy=semi_dynamic"
+          },
+          {
+            "type": "square",
+            "height": 610,
+            "width": 610,
+            "ratio": "1:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP070125139-1.jpg?itok=Pyybb3at&width=610&height=610&impolicy=semi_dynamic"
+          },
+          {
+            "type": "landscape_small",
+            "height": 288,
+            "width": 512,
+            "ratio": "1.78:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP070125139-1.jpg?itok=kMe9q9s4&width=512&height=288&impolicy=semi_dynamic"
+          },
+          {
+            "type": "landscape_xs",
+            "height": 90,
+            "width": 160,
+            "ratio": "1.78:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP070125139-1.jpg?itok=rKdQiGQu&width=160&height=90&impolicy=semi_dynamic"
+          }
+        ],
+        "type": "MediaAfbeelding"
+      },
+      "branded": {
+        "status": false,
+        "label": null,
+        "campaign": null,
+        "partnerLogo": null,
+        "partnerUrl": null,
+        "clickTracker": null,
+        "impressieTracker": null
+      },
+      "sectie": {
+        "id": 254601,
+        "title": "Sport",
+        "beschrijving": "",
+        "woordenboek": "secties",
+        "url": "https://redactie.rtl.nl/nieuws/sport",
+        "analytics": null,
+        "advertising": null,
+        "items": null,
+        "pager": null,
+        "regions": [],
+        "metadata": {
+          "entityType": "taxonomy_term",
+          "entityBundle": "secties",
+          "template": "default",
+          "theme": "rtl_blue"
+        },
+        "kruimelpad": null,
+        "type": "PageItem"
+      },
+      "overigeSecties": [],
+      "labelValue": "Sport",
+      "labelType": "sectionName",
+      "metadata": {
+        "entityType": "node",
+        "entityBundle": "artikel",
+        "template": "default",
+        "theme": "rtl_blue"
+      },
+      "highlighted": false,
+      "chapeau": null,
+      "lead": "Toernooidirecteur Richard Krajicek rekent met tien tennissers uit de top 20 bij de ABN AMRO Open op een van de sterkst bezette edities ooit. Naast drie wereldtoppers uit de top 5 als Jannik Sinner, Carlos Alcaraz en Daniil Medvedev doen er ook drie Nederlanders mee aan het hoofdtoernooi. Tallon Griekspoor, de nummer 1 van Nederland, komt als 40e van de wereldranglijst op eigen kracht binnen. Botic van de Zandschulp en Mees Röttgering krijgen een wildcard van Krajicek. De derde speciale uitnodiging gaat naar de Zwitserse veteraan Stan Wawrinka (39).",
+      "showVideoIcon": false,
+      "duration": null,
+      "fotoBijschrift": null,
+      "canonicalUrl": "https://redactie.rtl.nl/nieuws/sport/artikel/5483388/krajicek-presenteert-sterk-bezette-editie-abn-amro-open",
+      "isPremium": false
+    },
+    {
+      "type": "ArtikelReferentie",
+      "id": 5483386,
+      "aangemaaktDatum": {
+        "timestamp": 1736252193,
+        "formatted": "Gisteren"
+      },
+      "bijgewerktDatum": {
+        "timestamp": 1736252281,
+        "formatted": "Gisteren"
+      },
+      "titel": "Aanvaller Manu vertrekt na drie maanden bij FC Volendam",
+      "urlAlias": "https://redactie.rtl.nl/nieuws/sport/artikel/5483386/aanvaller-manu-vertrekt-na-drie-maanden-bij-fc-volendam",
+      "afbeelding": {
+        "bijschrift": null,
+        "copyright": null,
+        "afbeelding": "https://redactie.rtl.nl/sites/default/files/ANP070125135-1.jpg",
+        "crops": [
+          {
+            "type": "inline_small",
+            "height": 150,
+            "width": 200,
+            "ratio": "1.33:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/styles/inline_small/public/ANP070125135-1.jpg?itok=1W5XJ2ve"
+          },
+          {
+            "type": "artikel_top",
+            "height": 395,
+            "width": 694,
+            "ratio": "1.76:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP070125135-1.jpg?itok=Dffa-Caf&width=694&height=395&impolicy=semi_dynamic"
+          },
+          {
+            "type": "staand",
+            "height": 1024,
+            "width": 682,
+            "ratio": "0.67:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/styles/staand/public/ANP070125135-1.jpg?itok=6Og0Nc0I"
+          },
+          {
+            "type": "liggend_breed",
+            "height": 400,
+            "width": 1200,
+            "ratio": "3:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/styles/liggend_breed/public/ANP070125135-1.jpg?itok=RQI6B9_Q"
+          },
+          {
+            "type": "liggend",
+            "height": 576,
+            "width": 1024,
+            "ratio": "1.78:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP070125135-1.jpg?itok=-Auq8bj3&width=1024&height=576&impolicy=semi_dynamic"
+          },
+          {
+            "type": "liggend_breed_nieuwsopening",
+            "height": 430,
+            "width": 1024,
+            "ratio": "2.38:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/styles/liggend_breed_nieuwsopening/public/ANP070125135-1.jpg?itok=hZKvBoI2"
+          },
+          {
+            "type": "liggend_hoge_resolutie",
+            "height": 1152,
+            "width": 2048,
+            "ratio": "1.78:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP070125135-1.jpg?itok=MSvt5vET&width=2048&height=1152&impolicy=semi_dynamic"
+          },
+          {
+            "type": "square_medium",
+            "height": 400,
+            "width": 400,
+            "ratio": "1:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/styles/square_medium/public/ANP070125135-1.jpg?itok=7fjESsM-"
+          },
+          {
+            "type": "square_small",
+            "height": 300,
+            "width": 300,
+            "ratio": "1:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP070125135-1.jpg?itok=0zGPhcvI&width=300&height=300&impolicy=semi_dynamic"
+          },
+          {
+            "type": "square",
+            "height": 610,
+            "width": 610,
+            "ratio": "1:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP070125135-1.jpg?itok=spmoaWKu&width=610&height=610&impolicy=semi_dynamic"
+          },
+          {
+            "type": "landscape_small",
+            "height": 288,
+            "width": 512,
+            "ratio": "1.78:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP070125135-1.jpg?itok=YWKph-qw&width=512&height=288&impolicy=semi_dynamic"
+          },
+          {
+            "type": "landscape_xs",
+            "height": 90,
+            "width": 160,
+            "ratio": "1.78:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP070125135-1.jpg?itok=RWw9X7rg&width=160&height=90&impolicy=semi_dynamic"
+          }
+        ],
+        "type": "MediaAfbeelding"
+      },
+      "branded": {
+        "status": false,
+        "label": null,
+        "campaign": null,
+        "partnerLogo": null,
+        "partnerUrl": null,
+        "clickTracker": null,
+        "impressieTracker": null
+      },
+      "sectie": {
+        "id": 254602,
+        "title": "Voetbal",
+        "beschrijving": "",
+        "woordenboek": "secties",
+        "url": "https://redactie.rtl.nl/nieuws/sport/voetbal",
+        "analytics": null,
+        "advertising": null,
+        "items": null,
+        "pager": null,
+        "regions": [],
+        "metadata": {
+          "entityType": "taxonomy_term",
+          "entityBundle": "secties",
+          "template": "default",
+          "theme": "rtl_blue"
+        },
+        "kruimelpad": null,
+        "type": "PageItem"
+      },
+      "overigeSecties": [],
+      "labelValue": "Voetbal",
+      "labelType": "sectionName",
+      "metadata": {
+        "entityType": "node",
+        "entityBundle": "artikel",
+        "template": "default",
+        "theme": "rtl_blue"
+      },
+      "highlighted": false,
+      "chapeau": null,
+      "lead": "Aanvaller Elvis Manu vertrekt per 1 februari bij FC Volendam. De club meldt dat de 31-jarige voetballer deze maand de tijd krijgt om uit te kijken naar een nieuwe club.",
+      "showVideoIcon": false,
+      "duration": null,
+      "fotoBijschrift": null,
+      "canonicalUrl": "https://redactie.rtl.nl/nieuws/sport/artikel/5483386/aanvaller-manu-vertrekt-na-drie-maanden-bij-fc-volendam",
+      "isPremium": false
+    },
+    {
+      "type": "ArtikelReferentie",
+      "id": 5483377,
+      "aangemaaktDatum": {
+        "timestamp": 1736247650,
+        "formatted": "Gisteren"
+      },
+      "bijgewerktDatum": {
+        "timestamp": 1736247721,
+        "formatted": "Gisteren"
+      },
+      "titel": "Alle Nederlanders eruit in eerste voorronde Australian Open ",
+      "urlAlias": "https://redactie.rtl.nl/nieuws/sport/artikel/5483377/alle-nederlanders-eruit-eerste-voorronde-australian-open",
+      "afbeelding": {
+        "bijschrift": null,
+        "copyright": null,
+        "afbeelding": "https://redactie.rtl.nl/sites/default/files/ANP070125118-1.jpg",
+        "crops": [
+          {
+            "type": "inline_small",
+            "height": 150,
+            "width": 200,
+            "ratio": "1.33:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/styles/inline_small/public/ANP070125118-1.jpg?itok=c7vfiGpx"
+          },
+          {
+            "type": "artikel_top",
+            "height": 395,
+            "width": 694,
+            "ratio": "1.76:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP070125118-1.jpg?itok=3FKd2XCx&width=694&height=395&impolicy=semi_dynamic"
+          },
+          {
+            "type": "staand",
+            "height": 1024,
+            "width": 682,
+            "ratio": "0.67:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/styles/staand/public/ANP070125118-1.jpg?itok=--mY5W83"
+          },
+          {
+            "type": "liggend_breed",
+            "height": 400,
+            "width": 1200,
+            "ratio": "3:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/styles/liggend_breed/public/ANP070125118-1.jpg?itok=xjS8eXSS"
+          },
+          {
+            "type": "liggend",
+            "height": 576,
+            "width": 1024,
+            "ratio": "1.78:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP070125118-1.jpg?itok=Lav8qZDE&width=1024&height=576&impolicy=semi_dynamic"
+          },
+          {
+            "type": "liggend_breed_nieuwsopening",
+            "height": 430,
+            "width": 1024,
+            "ratio": "2.38:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/styles/liggend_breed_nieuwsopening/public/ANP070125118-1.jpg?itok=xoaSk2Rp"
+          },
+          {
+            "type": "liggend_hoge_resolutie",
+            "height": 1152,
+            "width": 2048,
+            "ratio": "1.78:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP070125118-1.jpg?itok=BtQMTAV6&width=2048&height=1152&impolicy=semi_dynamic"
+          },
+          {
+            "type": "square_medium",
+            "height": 400,
+            "width": 400,
+            "ratio": "1:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/styles/square_medium/public/ANP070125118-1.jpg?itok=uTpdK-CS"
+          },
+          {
+            "type": "square_small",
+            "height": 300,
+            "width": 300,
+            "ratio": "1:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP070125118-1.jpg?itok=BftNr8qf&width=300&height=300&impolicy=semi_dynamic"
+          },
+          {
+            "type": "square",
+            "height": 610,
+            "width": 610,
+            "ratio": "1:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP070125118-1.jpg?itok=FXrOPH9b&width=610&height=610&impolicy=semi_dynamic"
+          },
+          {
+            "type": "landscape_small",
+            "height": 288,
+            "width": 512,
+            "ratio": "1.78:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP070125118-1.jpg?itok=Voc2vNaw&width=512&height=288&impolicy=semi_dynamic"
+          },
+          {
+            "type": "landscape_xs",
+            "height": 90,
+            "width": 160,
+            "ratio": "1.78:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP070125118-1.jpg?itok=pIADvKs3&width=160&height=90&impolicy=semi_dynamic"
+          }
+        ],
+        "type": "MediaAfbeelding"
+      },
+      "branded": {
+        "status": false,
+        "label": null,
+        "campaign": null,
+        "partnerLogo": null,
+        "partnerUrl": null,
+        "clickTracker": null,
+        "impressieTracker": null
+      },
+      "sectie": {
+        "id": 254601,
+        "title": "Sport",
+        "beschrijving": "",
+        "woordenboek": "secties",
+        "url": "https://redactie.rtl.nl/nieuws/sport",
+        "analytics": null,
+        "advertising": null,
+        "items": null,
+        "pager": null,
+        "regions": [],
+        "metadata": {
+          "entityType": "taxonomy_term",
+          "entityBundle": "secties",
+          "template": "default",
+          "theme": "rtl_blue"
+        },
+        "kruimelpad": null,
+        "type": "PageItem"
+      },
+      "overigeSecties": [],
+      "labelValue": "Sport",
+      "labelType": "sectionName",
+      "metadata": {
+        "entityType": "node",
+        "entityBundle": "artikel",
+        "template": "default",
+        "theme": "rtl_blue"
+      },
+      "highlighted": false,
+      "chapeau": null,
+      "lead": "Ook Jesper de Jong is uitgeschakeld in de eerste voorronde van de Australian Open. De Noord-Hollandse tennisser verloor na een lange partij in drie sets van de Turk Aziz Dougaz: 7-6 (5) 1-6 6-7 (5). Met De Jong zijn alle vijf Nederlanders die via de kwalificaties het hoofdtoernooi probeerden te bereiken, al na één partij klaar in Melbourne.",
+      "showVideoIcon": false,
+      "duration": null,
+      "fotoBijschrift": null,
+      "canonicalUrl": "https://redactie.rtl.nl/nieuws/sport/artikel/5483377/alle-nederlanders-eruit-eerste-voorronde-australian-open",
+      "isPremium": false
+    },
+    {
+      "type": "ArtikelReferentie",
+      "id": 5483374,
+      "aangemaaktDatum": {
+        "timestamp": 1736247143,
+        "formatted": "Gisteren"
+      },
+      "bijgewerktDatum": {
+        "timestamp": 1736247241,
+        "formatted": "Gisteren"
+      },
+      "titel": "Spurs verlengt contract met Zuid-Koreaanse topscorer Son ",
+      "urlAlias": "https://redactie.rtl.nl/nieuws/sport/artikel/5483374/spurs-verlengt-contract-met-zuid-koreaanse-topscorer-son",
+      "afbeelding": {
+        "bijschrift": null,
+        "copyright": null,
+        "afbeelding": "https://redactie.rtl.nl/sites/default/files/ANP070125114-1.jpg",
+        "crops": [
+          {
+            "type": "inline_small",
+            "height": 150,
+            "width": 200,
+            "ratio": "1.33:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/styles/inline_small/public/ANP070125114-1.jpg?itok=k8Dl_PdZ"
+          },
+          {
+            "type": "artikel_top",
+            "height": 395,
+            "width": 694,
+            "ratio": "1.76:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP070125114-1.jpg?itok=UcgtSkZ5&width=694&height=395&impolicy=semi_dynamic"
+          },
+          {
+            "type": "staand",
+            "height": 1024,
+            "width": 682,
+            "ratio": "0.67:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/styles/staand/public/ANP070125114-1.jpg?itok=VI9Q1HVg"
+          },
+          {
+            "type": "liggend_breed",
+            "height": 400,
+            "width": 1200,
+            "ratio": "3:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/styles/liggend_breed/public/ANP070125114-1.jpg?itok=HGMYlsOL"
+          },
+          {
+            "type": "liggend",
+            "height": 576,
+            "width": 1024,
+            "ratio": "1.78:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP070125114-1.jpg?itok=hkmklDyt&width=1024&height=576&impolicy=semi_dynamic"
+          },
+          {
+            "type": "liggend_breed_nieuwsopening",
+            "height": 430,
+            "width": 1024,
+            "ratio": "2.38:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/styles/liggend_breed_nieuwsopening/public/ANP070125114-1.jpg?itok=LzUDvNiW"
+          },
+          {
+            "type": "liggend_hoge_resolutie",
+            "height": 1152,
+            "width": 2048,
+            "ratio": "1.78:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP070125114-1.jpg?itok=akp8knnt&width=2048&height=1152&impolicy=semi_dynamic"
+          },
+          {
+            "type": "square_medium",
+            "height": 400,
+            "width": 400,
+            "ratio": "1:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/styles/square_medium/public/ANP070125114-1.jpg?itok=MwQUrquN"
+          },
+          {
+            "type": "square_small",
+            "height": 300,
+            "width": 300,
+            "ratio": "1:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP070125114-1.jpg?itok=TzelkOJu&width=300&height=300&impolicy=semi_dynamic"
+          },
+          {
+            "type": "square",
+            "height": 610,
+            "width": 610,
+            "ratio": "1:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP070125114-1.jpg?itok=i51XWnUQ&width=610&height=610&impolicy=semi_dynamic"
+          },
+          {
+            "type": "landscape_small",
+            "height": 288,
+            "width": 512,
+            "ratio": "1.78:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP070125114-1.jpg?itok=xPmtj9_K&width=512&height=288&impolicy=semi_dynamic"
+          },
+          {
+            "type": "landscape_xs",
+            "height": 90,
+            "width": 160,
+            "ratio": "1.78:1",
+            "path": "https://redactie.rtl.nl/sites/default/files/ANP070125114-1.jpg?itok=B3wQrAaS&width=160&height=90&impolicy=semi_dynamic"
+          }
+        ],
+        "type": "MediaAfbeelding"
+      },
+      "branded": {
+        "status": false,
+        "label": null,
+        "campaign": null,
+        "partnerLogo": null,
+        "partnerUrl": null,
+        "clickTracker": null,
+        "impressieTracker": null
+      },
+      "sectie": {
+        "id": 254602,
+        "title": "Voetbal",
+        "beschrijving": "",
+        "woordenboek": "secties",
+        "url": "https://redactie.rtl.nl/nieuws/sport/voetbal",
+        "analytics": null,
+        "advertising": null,
+        "items": null,
+        "pager": null,
+        "regions": [],
+        "metadata": {
+          "entityType": "taxonomy_term",
+          "entityBundle": "secties",
+          "template": "default",
+          "theme": "rtl_blue"
+        },
+        "kruimelpad": null,
+        "type": "PageItem"
+      },
+      "overigeSecties": [],
+      "labelValue": "Voetbal",
+      "labelType": "sectionName",
+      "metadata": {
+        "entityType": "node",
+        "entityBundle": "artikel",
+        "template": "default",
+        "theme": "rtl_blue"
+      },
+      "highlighted": false,
+      "chapeau": null,
+      "lead": "Tottenham Hotspur heeft het contract met de Zuid-Koreaanse aanvaller Son Heung-min verlengd tot de zomer van 2026. De 32-jarige aanvoerder speelt al sinds de zomer van 2015 voor de club uit de Premier League.",
+      "showVideoIcon": false,
+      "duration": null,
+      "fotoBijschrift": null,
+      "canonicalUrl": "https://redactie.rtl.nl/nieuws/sport/artikel/5483374/spurs-verlengt-contract-met-zuid-koreaanse-topscorer-son",
+      "isPremium": false
+    }
+  ],
+  "pager": {
+    "page": 0,
+    "offset": 0,
+    "itemsPerPage": 12,
+    "hasNextPage": true,
+    "nextPage": "https://redactie.rtl.nl/nieuws/sport?_format=json&page=1&v=2"
+  },
+  "regions": [
+    {
+      "name": "html_head",
+      "blocks": []
+    },
+    {
+      "name": "header",
+      "blocks": []
+    },
+    {
+      "name": "body_top",
+      "blocks": []
+    },
+    {
+      "name": "under_navigation",
+      "blocks": [
+        {
+          "id": "system_menu_block:rtl---rtl-nieuws-menu",
+          "title": null,
+          "menuId": "rtl---rtl-nieuws-menu",
+          "type": "MenuBlock"
+        }
+      ]
+    },
+    {
+      "name": "content",
+      "blocks": []
+    },
+    {
+      "name": "content_top",
+      "blocks": [
+        {
+          "id": 2735,
+          "titel": null,
+          "analyticsTitle": null,
+          "link": null,
+          "template": "rtlnl_opening_big_teaser_left",
+          "artikelen": [
+            {
+              "id": 5483490,
+              "titel": "Indonesië stelt Kluivert voor twee jaar aan als bondscoach",
+              "afbeelding": {
+                "bijschrift": null,
+                "copyright": null,
+                "afbeelding": "https://redactie.rtl.nl/sites/default/files/ANP080125077-1.jpg",
+                "crops": [
+                  {
+                    "type": "inline_small",
+                    "height": 150,
+                    "width": 200,
+                    "ratio": "1.33:1",
+                    "path": "https://redactie.rtl.nl/sites/default/files/styles/inline_small/public/ANP080125077-1.jpg?itok=CZK2hrzn"
+                  },
+                  {
+                    "type": "artikel_top",
+                    "height": 395,
+                    "width": 694,
+                    "ratio": "1.76:1",
+                    "path": "https://redactie.rtl.nl/sites/default/files/ANP080125077-1.jpg?itok=5RzVvmqr&width=694&height=395&impolicy=semi_dynamic"
+                  },
+                  {
+                    "type": "staand",
+                    "height": 1024,
+                    "width": 682,
+                    "ratio": "0.67:1",
+                    "path": "https://redactie.rtl.nl/sites/default/files/styles/staand/public/ANP080125077-1.jpg?itok=58pC1WYE"
+                  },
+                  {
+                    "type": "liggend_breed",
+                    "height": 400,
+                    "width": 1200,
+                    "ratio": "3:1",
+                    "path": "https://redactie.rtl.nl/sites/default/files/styles/liggend_breed/public/ANP080125077-1.jpg?itok=hjPiTKwO"
+                  },
+                  {
+                    "type": "liggend",
+                    "height": 576,
+                    "width": 1024,
+                    "ratio": "1.78:1",
+                    "path": "https://redactie.rtl.nl/sites/default/files/ANP080125077-1.jpg?itok=vrQnqGEt&width=1024&height=576&impolicy=semi_dynamic"
+                  },
+                  {
+                    "type": "liggend_breed_nieuwsopening",
+                    "height": 430,
+                    "width": 1024,
+                    "ratio": "2.38:1",
+                    "path": "https://redactie.rtl.nl/sites/default/files/styles/liggend_breed_nieuwsopening/public/ANP080125077-1.jpg?itok=NOHK3Zu7"
+                  },
+                  {
+                    "type": "liggend_hoge_resolutie",
+                    "height": 1152,
+                    "width": 2048,
+                    "ratio": "1.78:1",
+                    "path": "https://redactie.rtl.nl/sites/default/files/ANP080125077-1.jpg?itok=_31vrWgC&width=2048&height=1152&impolicy=semi_dynamic"
+                  },
+                  {
+                    "type": "square_medium",
+                    "height": 400,
+                    "width": 400,
+                    "ratio": "1:1",
+                    "path": "https://redactie.rtl.nl/sites/default/files/styles/square_medium/public/ANP080125077-1.jpg?itok=spIUFLxQ"
+                  },
+                  {
+                    "type": "square_small",
+                    "height": 300,
+                    "width": 300,
+                    "ratio": "1:1",
+                    "path": "https://redactie.rtl.nl/sites/default/files/ANP080125077-1.jpg?itok=sjVxQfzb&width=300&height=300&impolicy=semi_dynamic"
+                  },
+                  {
+                    "type": "square",
+                    "height": 610,
+                    "width": 610,
+                    "ratio": "1:1",
+                    "path": "https://redactie.rtl.nl/sites/default/files/ANP080125077-1.jpg?itok=chSk44Vk&width=610&height=610&impolicy=semi_dynamic"
+                  },
+                  {
+                    "type": "landscape_small",
+                    "height": 288,
+                    "width": 512,
+                    "ratio": "1.78:1",
+                    "path": "https://redactie.rtl.nl/sites/default/files/ANP080125077-1.jpg?itok=-lI8ARbI&width=512&height=288&impolicy=semi_dynamic"
+                  },
+                  {
+                    "type": "landscape_xs",
+                    "height": 90,
+                    "width": 160,
+                    "ratio": "1.78:1",
+                    "path": "https://redactie.rtl.nl/sites/default/files/ANP080125077-1.jpg?itok=mLWviSgF&width=160&height=90&impolicy=semi_dynamic"
+                  }
+                ],
+                "type": "MediaAfbeelding"
+              },
+              "url": "https://redactie.rtl.nl/nieuws/sport/artikel/5483490/indonesie-stelt-kluivert-voor-twee-jaar-aan-als-bondscoach",
+              "urlAlias": "https://redactie.rtl.nl/nieuws/sport/artikel/5483490/indonesie-stelt-kluivert-voor-twee-jaar-aan-als-bondscoach",
+              "impressieTracker": null,
+              "labelValue": "Voetbal",
+              "labelType": "sectionName",
+              "brandedLogo": null,
+              "created": "1736326752",
+              "aangemaaktDatum": {
+                "timestamp": 1736326752,
+                "formatted": "8 januari 2025"
+              },
+              "metadata": {
+                "entityType": "node",
+                "entityBundle": "artikel",
+                "template": "default",
+                "theme": "rtl_blue"
+              },
+              "lead": "Patrick Kluivert is de nieuwe bondscoach van de voetballers van Indonesië. De oud-international van Oranje heeft een contract getekend voor twee jaar en krijgt als eerste opdracht om zich te plaatsen voor het WK van volgend jaar. Daarbij krijgt de 48-jarige voormalige spits hulp van zijn assistenten Alex Pastoor en Denny Landzaat.",
+              "internGerelateerd": null,
+              "isPremium": false,
+              "relatedItems": [],
+              "showRecommendations": null,
+              "notificatie": false,
+              "showVideoIcon": false,
+              "fotoBijschrift": null,
+              "type": "Artikel"
+            },
+            {
+              "id": 5483482,
+              "titel": "Rentree tennisser Kyrgios in Melbourne onzekerder om buikblessure",
+              "afbeelding": {
+                "bijschrift": null,
+                "copyright": null,
+                "afbeelding": "https://redactie.rtl.nl/sites/default/files/ANP080125066-1.jpg",
+                "crops": [
+                  {
+                    "type": "inline_small",
+                    "height": 150,
+                    "width": 200,
+                    "ratio": "1.33:1",
+                    "path": "https://redactie.rtl.nl/sites/default/files/styles/inline_small/public/ANP080125066-1.jpg?itok=YwmPXvSd"
+                  },
+                  {
+                    "type": "artikel_top",
+                    "height": 395,
+                    "width": 694,
+                    "ratio": "1.76:1",
+                    "path": "https://redactie.rtl.nl/sites/default/files/ANP080125066-1.jpg?itok=x6tUbA2-&width=694&height=395&impolicy=semi_dynamic"
+                  },
+                  {
+                    "type": "staand",
+                    "height": 1024,
+                    "width": 682,
+                    "ratio": "0.67:1",
+                    "path": "https://redactie.rtl.nl/sites/default/files/styles/staand/public/ANP080125066-1.jpg?itok=EIpJ1jXN"
+                  },
+                  {
+                    "type": "liggend_breed",
+                    "height": 400,
+                    "width": 1200,
+                    "ratio": "3:1",
+                    "path": "https://redactie.rtl.nl/sites/default/files/styles/liggend_breed/public/ANP080125066-1.jpg?itok=m2Oy96jG"
+                  },
+                  {
+                    "type": "liggend",
+                    "height": 576,
+                    "width": 1024,
+                    "ratio": "1.78:1",
+                    "path": "https://redactie.rtl.nl/sites/default/files/ANP080125066-1.jpg?itok=VVt2rcVX&width=1024&height=576&impolicy=semi_dynamic"
+                  },
+                  {
+                    "type": "liggend_breed_nieuwsopening",
+                    "height": 430,
+                    "width": 1024,
+                    "ratio": "2.38:1",
+                    "path": "https://redactie.rtl.nl/sites/default/files/styles/liggend_breed_nieuwsopening/public/ANP080125066-1.jpg?itok=SnsH9ZuF"
+                  },
+                  {
+                    "type": "liggend_hoge_resolutie",
+                    "height": 1152,
+                    "width": 2048,
+                    "ratio": "1.78:1",
+                    "path": "https://redactie.rtl.nl/sites/default/files/ANP080125066-1.jpg?itok=RfwYi98W&width=2048&height=1152&impolicy=semi_dynamic"
+                  },
+                  {
+                    "type": "square_medium",
+                    "height": 400,
+                    "width": 400,
+                    "ratio": "1:1",
+                    "path": "https://redactie.rtl.nl/sites/default/files/styles/square_medium/public/ANP080125066-1.jpg?itok=jlmJMKh5"
+                  },
+                  {
+                    "type": "square_small",
+                    "height": 300,
+                    "width": 300,
+                    "ratio": "1:1",
+                    "path": "https://redactie.rtl.nl/sites/default/files/ANP080125066-1.jpg?itok=9rzzSItC&width=300&height=300&impolicy=semi_dynamic"
+                  },
+                  {
+                    "type": "square",
+                    "height": 610,
+                    "width": 610,
+                    "ratio": "1:1",
+                    "path": "https://redactie.rtl.nl/sites/default/files/ANP080125066-1.jpg?itok=qQIiRxd-&width=610&height=610&impolicy=semi_dynamic"
+                  },
+                  {
+                    "type": "landscape_small",
+                    "height": 288,
+                    "width": 512,
+                    "ratio": "1.78:1",
+                    "path": "https://redactie.rtl.nl/sites/default/files/ANP080125066-1.jpg?itok=8uIQ1ynx&width=512&height=288&impolicy=semi_dynamic"
+                  },
+                  {
+                    "type": "landscape_xs",
+                    "height": 90,
+                    "width": 160,
+                    "ratio": "1.78:1",
+                    "path": "https://redactie.rtl.nl/sites/default/files/ANP080125066-1.jpg?itok=NbjKORah&width=160&height=90&impolicy=semi_dynamic"
+                  }
+                ],
+                "type": "MediaAfbeelding"
+              },
+              "url": "https://redactie.rtl.nl/nieuws/sport/artikel/5483482/rentree-tennisser-kyrgios-melbourne-onzekerder-om-buikblessure",
+              "urlAlias": "https://redactie.rtl.nl/nieuws/sport/artikel/5483482/rentree-tennisser-kyrgios-melbourne-onzekerder-om-buikblessure",
+              "impressieTracker": null,
+              "labelValue": "Sport",
+              "labelType": "sectionName",
+              "brandedLogo": null,
+              "created": "1736324327",
+              "aangemaaktDatum": {
+                "timestamp": 1736324327,
+                "formatted": "8 januari 2025"
+              },
+              "metadata": {
+                "entityType": "node",
+                "entityBundle": "artikel",
+                "template": "default",
+                "theme": "rtl_blue"
+              },
+              "lead": "Een buikspierblessure maakt de langverwachte terugkeer van tennisser Nick Kyrgios op de Australian Open nog onzekerder. De Wimbledon-finalist van 2022 zag zich door de kwetsuur genoodzaakt zijn deelname aan een demonstratie-evenement van Novak Djokovic donderdag af te zeggen. Vorige week twijfelde de 29-jarige Australiër al of zijn pols een wedstrijd op een grandslamtoernooi aankon.",
+              "internGerelateerd": null,
+              "isPremium": false,
+              "relatedItems": [],
+              "showRecommendations": null,
+              "notificatie": false,
+              "showVideoIcon": false,
+              "fotoBijschrift": null,
+              "type": "Artikel"
+            },
+            {
+              "id": 5483455,
+              "titel": "Deschamps stopt als bondscoach van Frankrijk na WK 2026",
+              "afbeelding": {
+                "bijschrift": null,
+                "copyright": null,
+                "afbeelding": "https://redactie.rtl.nl/sites/default/files/ANP070125236-1.jpg",
+                "crops": [
+                  {
+                    "type": "inline_small",
+                    "height": 150,
+                    "width": 200,
+                    "ratio": "1.33:1",
+                    "path": "https://redactie.rtl.nl/sites/default/files/styles/inline_small/public/ANP070125236-1.jpg?itok=7zIpLrec"
+                  },
+                  {
+                    "type": "artikel_top",
+                    "height": 395,
+                    "width": 694,
+                    "ratio": "1.76:1",
+                    "path": "https://redactie.rtl.nl/sites/default/files/ANP070125236-1.jpg?itok=Argu_bOc&width=694&height=395&impolicy=semi_dynamic"
+                  },
+                  {
+                    "type": "staand",
+                    "height": 1024,
+                    "width": 682,
+                    "ratio": "0.67:1",
+                    "path": "https://redactie.rtl.nl/sites/default/files/styles/staand/public/ANP070125236-1.jpg?itok=0Da07xPc"
+                  },
+                  {
+                    "type": "liggend_breed",
+                    "height": 400,
+                    "width": 1200,
+                    "ratio": "3:1",
+                    "path": "https://redactie.rtl.nl/sites/default/files/styles/liggend_breed/public/ANP070125236-1.jpg?itok=jBxKQzz3"
+                  },
+                  {
+                    "type": "liggend",
+                    "height": 576,
+                    "width": 1024,
+                    "ratio": "1.78:1",
+                    "path": "https://redactie.rtl.nl/sites/default/files/ANP070125236-1.jpg?itok=xyiRUPg8&width=1024&height=576&impolicy=semi_dynamic"
+                  },
+                  {
+                    "type": "liggend_breed_nieuwsopening",
+                    "height": 430,
+                    "width": 1024,
+                    "ratio": "2.38:1",
+                    "path": "https://redactie.rtl.nl/sites/default/files/styles/liggend_breed_nieuwsopening/public/ANP070125236-1.jpg?itok=aHkeFc-m"
+                  },
+                  {
+                    "type": "liggend_hoge_resolutie",
+                    "height": 1152,
+                    "width": 2048,
+                    "ratio": "1.78:1",
+                    "path": "https://redactie.rtl.nl/sites/default/files/ANP070125236-1.jpg?itok=JfVqBTZY&width=2048&height=1152&impolicy=semi_dynamic"
+                  },
+                  {
+                    "type": "square_medium",
+                    "height": 400,
+                    "width": 400,
+                    "ratio": "1:1",
+                    "path": "https://redactie.rtl.nl/sites/default/files/styles/square_medium/public/ANP070125236-1.jpg?itok=1MPD0fhT"
+                  },
+                  {
+                    "type": "square_small",
+                    "height": 300,
+                    "width": 300,
+                    "ratio": "1:1",
+                    "path": "https://redactie.rtl.nl/sites/default/files/ANP070125236-1.jpg?itok=gFCaJxM-&width=300&height=300&impolicy=semi_dynamic"
+                  },
+                  {
+                    "type": "square",
+                    "height": 610,
+                    "width": 610,
+                    "ratio": "1:1",
+                    "path": "https://redactie.rtl.nl/sites/default/files/ANP070125236-1.jpg?itok=RUivBVlX&width=610&height=610&impolicy=semi_dynamic"
+                  },
+                  {
+                    "type": "landscape_small",
+                    "height": 288,
+                    "width": 512,
+                    "ratio": "1.78:1",
+                    "path": "https://redactie.rtl.nl/sites/default/files/ANP070125236-1.jpg?itok=-Q_gNU7k&width=512&height=288&impolicy=semi_dynamic"
+                  },
+                  {
+                    "type": "landscape_xs",
+                    "height": 90,
+                    "width": 160,
+                    "ratio": "1.78:1",
+                    "path": "https://redactie.rtl.nl/sites/default/files/ANP070125236-1.jpg?itok=QMc1y0h9&width=160&height=90&impolicy=semi_dynamic"
+                  }
+                ],
+                "type": "MediaAfbeelding"
+              },
+              "url": "https://redactie.rtl.nl/nieuws/sport/artikel/5483455/deschamps-stopt-als-bondscoach-van-frankrijk-na-wk-2026",
+              "urlAlias": "https://redactie.rtl.nl/nieuws/sport/artikel/5483455/deschamps-stopt-als-bondscoach-van-frankrijk-na-wk-2026",
+              "impressieTracker": null,
+              "labelValue": "Sport",
+              "labelType": "sectionName",
+              "brandedLogo": null,
+              "created": "1736288345",
+              "aangemaaktDatum": {
+                "timestamp": 1736288345,
+                "formatted": "7 januari 2025"
+              },
+              "metadata": {
+                "entityType": "node",
+                "entityBundle": "artikel",
+                "template": "default",
+                "theme": "rtl_blue"
+              },
+              "lead": "PARIJS (ANP/RTR) - Bondscoach Didier Deschamps zal na het WK van 2026 zijn aflopende contract niet verlengen. Dat meldde de Franse voetbalbond tegenover persbureau Reuters. Eerder op dinsdag schreef de Franse sportkrant L'Equipe dat Deschamps woensdag zijn beslissing gaat aankondigen.",
+              "internGerelateerd": null,
+              "isPremium": false,
+              "relatedItems": [],
+              "showRecommendations": null,
+              "notificatie": false,
+              "showVideoIcon": false,
+              "fotoBijschrift": null,
+              "type": "Artikel"
+            },
+            {
+              "id": 5483454,
+              "titel": "Newcastle United zet bij Arsenal grote stap richting bekerfinale",
+              "afbeelding": {
+                "bijschrift": null,
+                "copyright": null,
+                "afbeelding": "https://redactie.rtl.nl/sites/default/files/ANP070125233-1.jpg",
+                "crops": [
+                  {
+                    "type": "inline_small",
+                    "height": 150,
+                    "width": 200,
+                    "ratio": "1.33:1",
+                    "path": "https://redactie.rtl.nl/sites/default/files/styles/inline_small/public/ANP070125233-1.jpg?itok=ISdIUbM9"
+                  },
+                  {
+                    "type": "artikel_top",
+                    "height": 395,
+                    "width": 694,
+                    "ratio": "1.76:1",
+                    "path": "https://redactie.rtl.nl/sites/default/files/ANP070125233-1.jpg?itok=YGeHviZ3&width=694&height=395&impolicy=semi_dynamic"
+                  },
+                  {
+                    "type": "staand",
+                    "height": 1024,
+                    "width": 682,
+                    "ratio": "0.67:1",
+                    "path": "https://redactie.rtl.nl/sites/default/files/styles/staand/public/ANP070125233-1.jpg?itok=8Vzkmtn8"
+                  },
+                  {
+                    "type": "liggend_breed",
+                    "height": 400,
+                    "width": 1200,
+                    "ratio": "3:1",
+                    "path": "https://redactie.rtl.nl/sites/default/files/styles/liggend_breed/public/ANP070125233-1.jpg?itok=I1agAbPR"
+                  },
+                  {
+                    "type": "liggend",
+                    "height": 576,
+                    "width": 1024,
+                    "ratio": "1.78:1",
+                    "path": "https://redactie.rtl.nl/sites/default/files/ANP070125233-1.jpg?itok=HmTkMR4j&width=1024&height=576&impolicy=semi_dynamic"
+                  },
+                  {
+                    "type": "liggend_breed_nieuwsopening",
+                    "height": 430,
+                    "width": 1024,
+                    "ratio": "2.38:1",
+                    "path": "https://redactie.rtl.nl/sites/default/files/styles/liggend_breed_nieuwsopening/public/ANP070125233-1.jpg?itok=f15yfKk0"
+                  },
+                  {
+                    "type": "liggend_hoge_resolutie",
+                    "height": 1152,
+                    "width": 2048,
+                    "ratio": "1.78:1",
+                    "path": "https://redactie.rtl.nl/sites/default/files/ANP070125233-1.jpg?itok=Bq-LkOIL&width=2048&height=1152&impolicy=semi_dynamic"
+                  },
+                  {
+                    "type": "square_medium",
+                    "height": 400,
+                    "width": 400,
+                    "ratio": "1:1",
+                    "path": "https://redactie.rtl.nl/sites/default/files/styles/square_medium/public/ANP070125233-1.jpg?itok=MN2foClK"
+                  },
+                  {
+                    "type": "square_small",
+                    "height": 300,
+                    "width": 300,
+                    "ratio": "1:1",
+                    "path": "https://redactie.rtl.nl/sites/default/files/ANP070125233-1.jpg?itok=HjBYM_oD&width=300&height=300&impolicy=semi_dynamic"
+                  },
+                  {
+                    "type": "square",
+                    "height": 610,
+                    "width": 610,
+                    "ratio": "1:1",
+                    "path": "https://redactie.rtl.nl/sites/default/files/ANP070125233-1.jpg?itok=VHoq-Abf&width=610&height=610&impolicy=semi_dynamic"
+                  },
+                  {
+                    "type": "landscape_small",
+                    "height": 288,
+                    "width": 512,
+                    "ratio": "1.78:1",
+                    "path": "https://redactie.rtl.nl/sites/default/files/ANP070125233-1.jpg?itok=yQ8f1t2s&width=512&height=288&impolicy=semi_dynamic"
+                  },
+                  {
+                    "type": "landscape_xs",
+                    "height": 90,
+                    "width": 160,
+                    "ratio": "1.78:1",
+                    "path": "https://redactie.rtl.nl/sites/default/files/ANP070125233-1.jpg?itok=ae-__lQA&width=160&height=90&impolicy=semi_dynamic"
+                  }
+                ],
+                "type": "MediaAfbeelding"
+              },
+              "url": "https://redactie.rtl.nl/nieuws/sport/artikel/5483454/newcastle-united-zet-bij-arsenal-grote-stap-richting-bekerfinale",
+              "urlAlias": "https://redactie.rtl.nl/nieuws/sport/artikel/5483454/newcastle-united-zet-bij-arsenal-grote-stap-richting-bekerfinale",
+              "impressieTracker": null,
+              "labelValue": "Voetbal",
+              "labelType": "sectionName",
+              "brandedLogo": null,
+              "created": "1736287067",
+              "aangemaaktDatum": {
+                "timestamp": 1736287067,
+                "formatted": "7 januari 2025"
+              },
+              "metadata": {
+                "entityType": "node",
+                "entityBundle": "artikel",
+                "template": "default",
+                "theme": "rtl_blue"
+              },
+              "lead": "Newcastle United heeft bij Arsenal een grote stap gezet richting de finale van de League Cup. De ploeg van de Nederlandse verdediger Sven Botman won in Londen de eerste wedstrijd in de halve eindstrijd met 2-0 van de nummer 2 van de Premier League.",
+              "internGerelateerd": null,
+              "isPremium": false,
+              "relatedItems": [],
+              "showRecommendations": null,
+              "notificatie": false,
+              "showVideoIcon": false,
+              "fotoBijschrift": null,
+              "type": "Artikel"
+            },
+            {
+              "id": 5483442,
+              "titel": "Ajax en Damián van der Vaart akkoord over contractverlenging",
+              "afbeelding": {
+                "bijschrift": null,
+                "copyright": null,
+                "afbeelding": "https://redactie.rtl.nl/sites/default/files/ANP070125211-1.jpg",
+                "crops": [
+                  {
+                    "type": "inline_small",
+                    "height": 150,
+                    "width": 200,
+                    "ratio": "1.33:1",
+                    "path": "https://redactie.rtl.nl/sites/default/files/styles/inline_small/public/ANP070125211-1.jpg?itok=KBPSz_8T"
+                  },
+                  {
+                    "type": "artikel_top",
+                    "height": 395,
+                    "width": 694,
+                    "ratio": "1.76:1",
+                    "path": "https://redactie.rtl.nl/sites/default/files/ANP070125211-1.jpg?itok=-hbuhhVd&width=694&height=395&impolicy=semi_dynamic"
+                  },
+                  {
+                    "type": "staand",
+                    "height": 1024,
+                    "width": 682,
+                    "ratio": "0.67:1",
+                    "path": "https://redactie.rtl.nl/sites/default/files/styles/staand/public/ANP070125211-1.jpg?itok=Nsa4FFqh"
+                  },
+                  {
+                    "type": "liggend_breed",
+                    "height": 400,
+                    "width": 1200,
+                    "ratio": "3:1",
+                    "path": "https://redactie.rtl.nl/sites/default/files/styles/liggend_breed/public/ANP070125211-1.jpg?itok=XCO6wPhn"
+                  },
+                  {
+                    "type": "liggend",
+                    "height": 576,
+                    "width": 1024,
+                    "ratio": "1.78:1",
+                    "path": "https://redactie.rtl.nl/sites/default/files/ANP070125211-1.jpg?itok=Kbm-ee-s&width=1024&height=576&impolicy=semi_dynamic"
+                  },
+                  {
+                    "type": "liggend_breed_nieuwsopening",
+                    "height": 430,
+                    "width": 1024,
+                    "ratio": "2.38:1",
+                    "path": "https://redactie.rtl.nl/sites/default/files/styles/liggend_breed_nieuwsopening/public/ANP070125211-1.jpg?itok=bmRI9QEu"
+                  },
+                  {
+                    "type": "liggend_hoge_resolutie",
+                    "height": 1152,
+                    "width": 2048,
+                    "ratio": "1.78:1",
+                    "path": "https://redactie.rtl.nl/sites/default/files/ANP070125211-1.jpg?itok=mp7iJH-z&width=2048&height=1152&impolicy=semi_dynamic"
+                  },
+                  {
+                    "type": "square_medium",
+                    "height": 400,
+                    "width": 400,
+                    "ratio": "1:1",
+                    "path": "https://redactie.rtl.nl/sites/default/files/styles/square_medium/public/ANP070125211-1.jpg?itok=Uh5GCMNT"
+                  },
+                  {
+                    "type": "square_small",
+                    "height": 300,
+                    "width": 300,
+                    "ratio": "1:1",
+                    "path": "https://redactie.rtl.nl/sites/default/files/ANP070125211-1.jpg?itok=cmk2UkxT&width=300&height=300&impolicy=semi_dynamic"
+                  },
+                  {
+                    "type": "square",
+                    "height": 610,
+                    "width": 610,
+                    "ratio": "1:1",
+                    "path": "https://redactie.rtl.nl/sites/default/files/ANP070125211-1.jpg?itok=Wv-bRny4&width=610&height=610&impolicy=semi_dynamic"
+                  },
+                  {
+                    "type": "landscape_small",
+                    "height": 288,
+                    "width": 512,
+                    "ratio": "1.78:1",
+                    "path": "https://redactie.rtl.nl/sites/default/files/ANP070125211-1.jpg?itok=t7IjxLxw&width=512&height=288&impolicy=semi_dynamic"
+                  },
+                  {
+                    "type": "landscape_xs",
+                    "height": 90,
+                    "width": 160,
+                    "ratio": "1.78:1",
+                    "path": "https://redactie.rtl.nl/sites/default/files/ANP070125211-1.jpg?itok=gjNvLq6i&width=160&height=90&impolicy=semi_dynamic"
+                  }
+                ],
+                "type": "MediaAfbeelding"
+              },
+              "url": "https://redactie.rtl.nl/nieuws/sport/artikel/5483442/ajax-en-damian-van-der-vaart-akkoord-over-contractverlenging",
+              "urlAlias": "https://redactie.rtl.nl/nieuws/sport/artikel/5483442/ajax-en-damian-van-der-vaart-akkoord-over-contractverlenging",
+              "impressieTracker": null,
+              "labelValue": "Voetbal",
+              "labelType": "sectionName",
+              "brandedLogo": null,
+              "created": "1736275801",
+              "aangemaaktDatum": {
+                "timestamp": 1736275801,
+                "formatted": "7 januari 2025"
+              },
+              "metadata": {
+                "entityType": "node",
+                "entityBundle": "artikel",
+                "template": "default",
+                "theme": "rtl_blue"
+              },
+              "lead": "Ajax en Damián van der Vaart hebben overeenstemming bereikt over een nieuw contract tot de zomer van 2029. De 18-jarige middenvelder verruilde in 2023 de jeugdopleiding van het Deense Esbjerg fB voor die van Ajax.",
+              "internGerelateerd": null,
+              "isPremium": false,
+              "relatedItems": [],
+              "showRecommendations": null,
+              "notificatie": false,
+              "showVideoIcon": false,
+              "fotoBijschrift": null,
+              "type": "Artikel"
+            }
+          ],
+          "metaData": {
+            "entityQueue": "sport_opening",
+            "terms": [],
+            "sections": [254601, 254602, 253734]
+          },
+          "hideLabelFromItems": false,
+          "type": "Template"
+        }
+      ]
+    },
+    {
+      "name": "content_bottom",
+      "blocks": []
+    },
+    {
+      "name": "sidebar_first",
+      "blocks": []
+    },
+    {
+      "name": "sidebar_second",
+      "blocks": []
+    },
+    {
+      "name": "footer_top",
+      "blocks": []
+    },
+    {
+      "name": "body_bottom",
+      "blocks": []
+    },
+    {
+      "name": "ad_halfpage",
+      "blocks": []
+    },
+    {
+      "name": "rtlxl",
+      "blocks": []
+    }
+  ],
+  "metadata": {
+    "entityType": "taxonomy_term",
+    "entityBundle": "secties",
+    "template": "default",
+    "theme": "rtl_blue"
+  },
+  "kruimelpad": [
+    {
+      "titel": "Secties",
+      "url": ""
+    },
+    {
+      "titel": "Nieuws",
+      "url": "/nieuws"
+    },
+    {
+      "titel": "Sport",
+      "url": "/nieuws/sport"
+    }
+  ],
+  "type": "PageItem"
+}
