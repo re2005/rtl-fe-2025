@@ -1,6 +1,6 @@
 export default function UiHeader() {
   return (
-    <header className="flex items-center gap-4">
+    <header className="flex items-center gap-4 justify-between">
       <div className="w-40">
         <svg
           xmlns="http://www.w3.org/2000/svg"

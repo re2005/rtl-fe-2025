@@ -9,20 +9,20 @@ test.describe('Sports News Page', () => {
     await page.goto('http://localhost:3000');
   });
 
-  test('should render the header', async ({ page }) => {
+  test('Should render the header', async ({ page }) => {
     const listComponent = await page.$('header h1');
     expect(listComponent).not.toBeNull();
     const headerText = await listComponent?.innerText();
     expect(headerText).toBe('Sports News');
   });
 
-  test('should have all items selected', async ({ page }) => {
+  test('Should have all items selected', async ({ page }) => {
     const allItemsButton = await page.$('button[data-testid="all"]');
     expect(allItemsButton).not.toBeNull();
   });
   
-  test('should render the UiList component', async ({ page }) => {
-    const listItems = await page.$$('ul > li');
+  test('Should render the UiList component', async ({ page }) => {
+    const listItems = await page.$$('ul[data-testid="ui-list"] > li');
     expect(listItems.length).toBe(12);
 
     const firstItem = listItems[0];
@@ -35,12 +35,12 @@ test.describe('Sports News Page', () => {
     expect(firstItemTitle).not.toBeNull();
   });
 
-  test('should filter items by sport', async ({ page }) => {
+  test('Should filter items by sport', async ({ page }) => {
     const sportButton = await page.$('button[data-testid="sport"]');
     expect(sportButton).not.toBeNull();
     await sportButton?.click();
 
-    const listItems = await page.$$('ul > li');
+    const listItems = await page.$$('ul[data-testid="ui-list"] > li');
     expect(listItems.length).toBe(4);
   });
 });

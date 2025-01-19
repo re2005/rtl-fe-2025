@@ -6,10 +6,10 @@ type Option = {
 interface ToggleProps {
   label: string;
   options: Option[];
-  setLabel: (label: string) => void;
+  setOption: (label: string) => void;
 }
 
-export default function Toggle({ options, setLabel, label }: ToggleProps) {
+export default function UiToggle({ options, setOption, label }: ToggleProps) {
   return (
     <div className="flex gap-2">
       {options.map((option) => (
@@ -21,7 +21,7 @@ export default function Toggle({ options, setLabel, label }: ToggleProps) {
               ? "bg-rtl-blue text-white"
               : "bg-gray-200 text-gray-700"
           }`}
-          onClick={() => setLabel(option.value || "")}
+          onClick={() => setOption(option.value || "")}
         >
           {option.name}
         </button>

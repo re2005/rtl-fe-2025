@@ -12,7 +12,7 @@ describe("useData hook", () => {
     expect(result).toHaveProperty("items");
     expect(Array.isArray(result.items)).toBe(true);
 
-    // Validate the first item structure (if items are available)
+    // Validate some of the items
     if (result.items.length > 0) {
       const item = result.items[0];
       expect(item).toHaveProperty("id");

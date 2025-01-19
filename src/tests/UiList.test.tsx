@@ -1,7 +1,7 @@
 import { render, screen } from "@testing-library/react";
 
 import { describe, it, expect } from "vitest";
-import UiList from "../app/components/UiList";
+import UiList from "../app/components/Ui/UiList";
 import { useData } from "../app/lib/useData";
 
 describe("List Component", () => {
@@ -22,6 +22,7 @@ describe("List Component", () => {
         url: "https://www.rtl.nl/nieuws/sport/artikel/5489911/liveblog-dakar-rally-2025-etappe-12",
         image:
           "https://redactie.rtl.nl/sites/default/files/content/images/2025/01/17/ANP-517600010.jpg",
+        description: "test",
       },
     ];
 

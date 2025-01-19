@@ -1,12 +1,13 @@
 "use client";
 
 import { useState } from "react";
-import UiList from "./components/UiList";
-import UiToogle from "./components/UiToogle";
+import UiList from "./components/Ui/UiList";
+import UiToogle from "./components/Ui/UiToogle";
 import { useData } from "./lib/useData";
+import UiBlockRegions from "./components/Ui/UiBlockRegions";
 
 export default function Home() {
-  const { items } = useData();
+  const { items, regions } = useData();
   const [label, setLabel] = useState<string>("all");
 
   const filteredItems = items.filter((item) =>
@@ -14,17 +15,18 @@ export default function Home() {
   );
 
   const options = [
-    { name: "All items", value: "all" },
+    { name: "Alles", value: "all" },
     { name: "Sport", value: "sport" },
     { name: "Voetbal", value: "voetbal" },
   ];
 
   return (
-    <div className="mt-10">
-      <div className="flex justify-end mb-4">
-        <UiToogle options={options} setLabel={setLabel} label={label} />
+    <div className="mt-2 grid-container">
+      <UiBlockRegions regions={regions} />
+      <div className="items flex flex-col gap-4">
+        <UiToogle options={options} setOption={setLabel} label={label} />
+        <UiList items={filteredItems} />
       </div>
-      <UiList items={filteredItems} />
     </div>
   );
 }

@@ -8,15 +8,65 @@
   --color-blue: #0975f3;
 }
 
+/* 
+Removed dark mode for now
 @media (prefers-color-scheme: dark) {
   :root {
     --background: #0a0a0a;
     --foreground: #ededed;
   }
-}
+} */
 
 body {
-  color: var(--background);
-  background: var(--foreground);
+  color: var(--foreground);
+  background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Tailwind custom scrollbar */
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
+.scrollbar-hide {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+
+.grid-container {
+  display: grid;
+  grid-template-areas:
+    "under-navigation"
+    "content-top"
+    "items"
+    "content"
+    "footer";
+  gap: 1rem;
+  @media (min-width: 1024px) {
+    gap: 1.4rem;
+  }
+}
+
+.header {
+  grid-area: header;
+}
+
+.under-navigation {
+  grid-area: under-navigation;
+}
+
+.content-top {
+  grid-area: content-top;
+}
+
+.items {
+  grid-area: items;
+}
+
+.content {
+  grid-area: content;
+}
+
+.footer {
+  grid-area: footer;
 }
