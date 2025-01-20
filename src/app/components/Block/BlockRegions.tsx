@@ -1,6 +1,6 @@
 import React from "react";
-import UiBlockRender from "@/app/components/Ui/UiBlockRender";
-import type { Region } from "@/app/lib/useData";
+import UiBlockRender from "./BlockRender";
+import type { Region } from "@/app/lib/data-types";
 
 interface UiBlockRegionsProps {
   regions: Region[];

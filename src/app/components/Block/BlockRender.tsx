@@ -1,6 +1,6 @@
 import MenuBlock from "@/app/components/Dynamic/MenuBlock";
 import Template from "@/app/components/Dynamic/Template";
-import type { Block } from "@/app/lib/useData";
+import type { Block } from "@/app/lib/data-types";
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 const blockComponents: { [key: string]: React.FC<any> } = {
   MenuBlock,

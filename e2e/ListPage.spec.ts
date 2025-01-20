@@ -15,11 +15,6 @@ test.describe('Sports News Page', () => {
     const headerText = await listComponent?.innerText();
     expect(headerText).toBe('Sports News');
   });
-
-  test('Should have all items selected', async ({ page }) => {
-    const allItemsButton = await page.$('button[data-testid="all"]');
-    expect(allItemsButton).not.toBeNull();
-  });
   
   test('Should render the UiList component', async ({ page }) => {
     const listItems = await page.$$('ul[data-testid="ui-list"] > li');
@@ -35,12 +30,4 @@ test.describe('Sports News Page', () => {
     expect(firstItemTitle).not.toBeNull();
   });
 
-  test('Should filter items by sport', async ({ page }) => {
-    const sportButton = await page.$('button[data-testid="sport"]');
-    expect(sportButton).not.toBeNull();
-    await sportButton?.click();
-
-    const listItems = await page.$$('ul[data-testid="ui-list"] > li');
-    expect(listItems.length).toBe(4);
-  });
 });

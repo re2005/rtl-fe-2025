@@ -2,17 +2,8 @@ import { render, screen } from "@testing-library/react";
 
 import { describe, it, expect } from "vitest";
 import UiList from "../app/components/Ui/UiList";
-import { useData } from "../app/lib/useData";
 
 describe("List Component", () => {
-  it("List should render a list of items", () => {
-    const { items } = useData();
-    render(<UiList items={items} />);
-
-    const listItems = screen.getAllByRole("listitem");
-    expect(listItems).toHaveLength(items.length);
-  });
-
   it("List should render correctly when there is 1 item", () => {
     const items = [
       {

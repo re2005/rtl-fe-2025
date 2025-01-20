@@ -1,4 +1,4 @@
-import type { Item } from "../../lib/useData";
+import type { ItemsRemaped as Item } from "@/app/lib/data-types";
 import Image from "next/image";
 import Link from "next/link";
 

@@ -1,8 +1,8 @@
-import type { ItemRaw } from "../../lib/useData";
+import type { Item } from "@/app/lib/data-types";
 import UiArticlesItem from "./UiArticlesItem";
 import UiArticleHighlight from "./UiArticleHighlight";
 
-export default function UiArticles({ items }: { items: ItemRaw[] }) {
+export default function UiArticles({ items }: { items: Item[] }) {
   const mappedItems = items.map((item) => ({
     id: item.id,
     title: item.titel,
