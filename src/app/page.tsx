@@ -1,13 +1,20 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import UiList from "./components/UiList";
 import UiToogle from "./components/UiToogle";
 import { useData } from "./lib/useData";
 
 export default function Home() {
   const { items } = useData();
-  const [label, setLabel] = useState<string>("all");
+  const defaultLabel = globalThis?.localStorage?.getItem("label") || "all";
+  const [label, setLabel] = useState<string>(defaultLabel);
+
+  useEffect(() => {
+    if (typeof window !== "undefined") {
+      globalThis.localStorage.setItem("label", label);
+    }
+  }, [label]);
 
   const filteredItems = items.filter((item) =>
     label === "all" ? true : item.label.toLowerCase() === label
